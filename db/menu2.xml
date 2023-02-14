@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Menu>
+<!--  Lunch Menu -->
+<!--  Non Vegitarian Dishes -->
+	<Lunch_NonVegetarian_Dish>
+		<Name> Doro Wot </Name>
+		<Description> Doro Wot </Description>
+		<Price> €12,00 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_NonVegetarian_Dish>
+	
+	<Lunch_NonVegetarian_Dish>
+		<Name> Kay Wot </Name>
+		<Description> Kay Wot </Description>
+		<Price> €13,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_NonVegetarian_Dish>
+	<Lunch_NonVegetarian_Dish>
+		<Name> Ye Beg Wot </Name>
+		<Description> Ye Beg Wot </Description>
+		<Price> €13,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_NonVegetarian_Dish>
+	<Lunch_NonVegetarian_Dish>
+		<Name> Bozena Shiro </Name>
+		<Description> Bozena Shiro </Description>
+		<Price> €12,00 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_NonVegetarian_Dish>
+	<Lunch_NonVegetarian_Dish>
+		<Name> Kitfo </Name>
+		<Description> Kitfo </Description>
+		<Price> €14,90 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_NonVegetarian_Dish>
+	<Lunch_NonVegetarian_Dish>
+		<Name> Gored Gored </Name>
+		<Description> Gored Gored </Description>
+		<Price> €16,00 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_NonVegetarian_Dish>
+	<Lunch_NonVegetarian_Dish>
+		<Name> Yebere Tibs </Name>
+		<Description> Yebere Tibs </Description>
+		<Price> €13,90 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_NonVegetarian_Dish>
+	<Lunch_NonVegetarian_Dish>
+		<Name> Yebeg Tibs </Name>
+		<Description> Yebeg Tibs </Description>
+		<Price> €13,90 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_NonVegetarian_Dish>
+	<Lunch_NonVegetarian_Dish>
+		<Name> Zilzil Tibs </Name>
+		<Description> Zilzil Tibs </Description>
+		<Price> €15,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_NonVegetarian_Dish>
+	<Lunch_NonVegetarian_Dish>
+		<Name> Ruz Be Siga </Name>
+		<Description> Ruz Be Siga </Description>
+		<Price> €11,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_NonVegetarian_Dish>
+	<Lunch_NonVegetarian_Dish>
+		<Name> Beyeaynet </Name>
+		<Description> Beyeaynet </Description>
+		<Price> €14,00 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_NonVegetarian_Dish>
+	<Lunch_NonVegetarian_Dish>
+		<Name> Mahiberawi für 2 Person </Name>
+		<Description> Mahiberawi für 2 Person </Description>
+		<Price> €26,00 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_NonVegetarian_Dish>
+	<Lunch_NonVegetarian_Dish>
+		<Name> Mahiberawi für 4 Person </Name>
+		<Description> Mahiberawi für 4 Person </Description>
+		<Price> €49,00 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_NonVegetarian_Dish>
+	
+	<!--  Vegitarian Dishes -->
+	<Lunch_Vegetarian_Dish>
+		<Name> Alicha </Name>
+		<Description> Alicha </Description>
+		<Price> €8,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_Vegetarian_Dish>
+	<Lunch_Vegetarian_Dish>
+		<Name> Shiro </Name>
+		<Description> Shiro </Description>
+		<Price> €9,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_Vegetarian_Dish>
+	<Lunch_Vegetarian_Dish>
+		<Name> Messir Wot </Name>
+		<Description> Messir Wot </Description>
+		<Price> €9,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_Vegetarian_Dish>
+	<Lunch_Vegetarian_Dish>
+		<Name> Yeatekilt Beyeaynet </Name>
+		<Description> Yeatekilt Beyeaynet </Description>
+		<Price> €12,90 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_Vegetarian_Dish>
+	<Lunch_Vegetarian_Dish>
+		<Name> Ruz Beatekilt  </Name>
+		<Description> Ruz Beatekilt </Description>
+		<Price> €11,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Lunch_Vegetarian_Dish>
+
+<!--  Dinner Menu -->
+	<!--  Non Vegitarian Dishes -->
+	<Dinner_NonVegetarian_Dish>
+		<Name> Doro Wot </Name>
+		<Description> Doro Wot </Description>
+		<Price> €12,00 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_NonVegetarian_Dish>
+	
+	<Dinner_NonVegetarian_Dish>
+		<Name> Kay Wot </Name>
+		<Description> Kay Wot </Description>
+		<Price> €13,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_NonVegetarian_Dish>
+	<Dinner_NonVegetarian_Dish>
+		<Name> Ye Beg Wot </Name>
+		<Description> Ye Beg Wot </Description>
+		<Price> €13,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_NonVegetarian_Dish>
+	<Dinner_NonVegetarian_Dish>
+		<Name> Bozena Shiro </Name>
+		<Description> Bozena Shiro </Description>
+		<Price> €12,00 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_NonVegetarian_Dish>
+	<Dinner_NonVegetarian_Dish>
+		<Name> Kitfo </Name>
+		<Description> Kitfo </Description>
+		<Price> €14,90 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_NonVegetarian_Dish>
+	<Dinner_NonVegetarian_Dish>
+		<Name> Gored Gored </Name>
+		<Description> Gored Gored </Description>
+		<Price> €16,00 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_NonVegetarian_Dish>
+	<Dinner_NonVegetarian_Dish>
+		<Name> Yebere Tibs </Name>
+		<Description> Yebere Tibs </Description>
+		<Price> €13,90 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_NonVegetarian_Dish>
+	<Dinner_NonVegetarian_Dish>
+		<Name> Yebeg Tibs </Name>
+		<Description> Yebeg Tibs </Description>
+		<Price> €13,90 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_NonVegetarian_Dish>
+	<Dinner_NonVegetarian_Dish>
+		<Name> Zilzil Tibs </Name>
+		<Description> Zilzil Tibs </Description>
+		<Price> €15,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_NonVegetarian_Dish>
+	<Dinner_NonVegetarian_Dish>
+		<Name> Ruz Be Siga </Name>
+		<Description> Ruz Be Siga </Description>
+		<Price> €11,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_NonVegetarian_Dish>
+	<Dinner_NonVegetarian_Dish>
+		<Name> Beyeaynet </Name>
+		<Description> Beyeaynet </Description>
+		<Price> €14,00 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_NonVegetarian_Dish>
+	<Dinner_NonVegetarian_Dish>
+		<Name> Mahiberawi für 2 Person </Name>
+		<Description> Mahiberawi für 2 Person </Description>
+		<Price> €26,00 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_NonVegetarian_Dish>
+	<Dinner_NonVegetarian_Dish>
+		<Name> Mahiberawi für 4 Person </Name>
+		<Description> Mahiberawi für 4 Person </Description>
+		<Price> €49,00 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_NonVegetarian_Dish>
+	
+    <!--  Vegitarian Dishes -->
+	<Dinner_Vegetarian_Dish>
+		<Name> Alicha </Name>
+		<Description> Alicha </Description>
+		<Price> €8,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_Vegetarian_Dish>
+	<Dinner_Vegetarian_Dish>
+		<Name> Shiro </Name>
+		<Description> Shiro </Description>
+		<Price> €9,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_Vegetarian_Dish>
+	<Dinner_Vegetarian_Dish>
+		<Name> Messir Wot </Name>
+		<Description> Messir Wot </Description>
+		<Price> €9,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_Vegetarian_Dish>
+	<Dinner_Vegetarian_Dish>
+		<Name> Yeatekilt Beyeaynet </Name>
+		<Description> Yeatekilt Beyeaynet </Description>
+		<Price> €12,90 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_Vegetarian_Dish>
+	<Dinner_Vegetarian_Dish>
+		<Name> Ruz Beatekilt  </Name>
+		<Description> Ruz Beatekilt </Description>
+		<Price> €11,50 </Price>
+		<Image> images/menu_1 </Image>
+	</Dinner_Vegetarian_Dish>
+
+<!--  Drinks Menu -->
+	<!-- Warm Drink -->
+	<WarmDrink>
+		<Name> Buna für 1 Person </Name>
+		<Description> Buna für 1 Person </Description>
+		<Price> €3,60 </Price>
+		<Image> images/menu_1 </Image>
+	</WarmDrink>
+	<WarmDrink>
+		<Name> Buna für 2 Personen </Name>
+		<Description> Buna für 2 Personen </Description>
+		<Price> €6,80 </Price>
+		<Image> images/menu_1 </Image>
+	</WarmDrink>
+	<WarmDrink>
+		<Name> Machiato Einfach </Name>
+		<Description> Machiato Einfach </Description>
+		<Price> €2,20 </Price>
+		<Image> images/menu_1 </Image>
+	</WarmDrink>	
+	<WarmDrink>
+		<Name> Machiato Doppelt </Name>
+		<Description> Machiato Doppelt </Description>
+		<Price> €3,90 </Price>
+		<Image> images/menu_1 </Image>
+	</WarmDrink>
+	<WarmDrink>
+		<Name> Espresso Einfach </Name>
+		<Description> Espresso Einfach </Description>
+		<Price> €1,50 </Price>
+		<Image> images/menu_1 </Image>
+	</WarmDrink>	
+	<WarmDrink>
+		<Name> Espresso Doppelt </Name>
+		<Description> Espresso Doppelt </Description>
+		<Price> €2,80 </Price>
+		<Image> images/menu_1 </Image>
+	</WarmDrink>
+	<WarmDrink>
+		<Name> Chai </Name>
+		<Description> Chai </Description>
+		<Price> €2,50 </Price>
+		<Image> images/menu_1 </Image>
+	</WarmDrink>
+	<WarmDrink>
+		<Name> Ingwer Chai </Name>
+		<Description> Ingwer Chai </Description>
+		<Price> €2,50 </Price>
+		<Image> images/menu_1 </Image>
+	</WarmDrink>
+	<WarmDrink>
+		<Name> Chai Espries</Name>
+		<Description> Chai Espries </Description>
+		<Price> €2,50 </Price>
+		<Image> images/menu_1 </Image>
+	</WarmDrink>
+	<WarmDrink>
+		<Name> Haustee </Name>
+		<Description> Haustee (0.3l glass) </Description>
+		<Price> €5,40 </Price>
+		<Image> images/menu_1 </Image>
+	</WarmDrink>
+	
+	<!-- Soft Drink -->
+	<SoftDrink>
+		<Name> Coca Cola (0.2l) </Name>
+		<Description> Coca Cola (0.2l) </Description>
+		<Price> €2,20 </Price>
+		<Image> images/menu_1 </Image>
+	</SoftDrink>
+	<SoftDrink>
+		<Name> Coca Cola (0.4l) </Name>
+		<Description> Coca Cola (0.4l) </Description>
+		<Price> €3,90 </Price>
+		<Image> images/menu_1 </Image>
+	</SoftDrink>
+	<SoftDrink>
+		<Name> Sprite (0.2l) </Name>
+		<Description> Sprite (0.2l) </Description>
+		<Price> €2,20 </Price>
+		<Image> images/menu_1 </Image>
+	</SoftDrink>
+	<SoftDrink>
+		<Name> Sprite (0.4l) </Name>
+		<Description> Sprite (0.4l) </Description>
+		<Price> €3,90 </Price>
+		<Image> images/menu_1 </Image>
+	</SoftDrink>
+	<SoftDrink>
+		<Name> Fanta (0.2l) </Name>
+		<Description> Fanta (0.2l) </Description>
+		<Price> €2,20 </Price>
+		<Image> images/menu_1 </Image>
+	</SoftDrink>
+	<SoftDrink>
+		<Name> Fanta (0.4l) </Name>
+		<Description> Fanta (0.4l) </Description>
+		<Price> €3,90 </Price>
+		<Image> images/menu_1 </Image>
+	</SoftDrink>
+	<SoftDrink>
+		<Name> Miniral Wasser (Still/Classic) (0.2l) </Name>
+		<Description> Miniral Wasser (Still/Classic) (0.2l) </Description>
+		<Price> €2,00 </Price>
+		<Image> images/menu_1 </Image>
+	</SoftDrink>
+	<SoftDrink>
+		<Name> Miniral Wasser (Still/Classic) (0.4l) </Name>
+		<Description> Miniral Wasser (Still/Classic) (0.4l) </Description>
+		<Price> €3,50 </Price>
+		<Image> images/menu_1 </Image>
+	</SoftDrink>
+	<SoftDrink>
+		<Name> Saft (Apfel/Orangen/Kirsch/Multivitamin) (0.2l) </Name>
+		<Description> Saft (Apfel/Orangen/Kirsch/Multivitamin) (0.2l) </Description>
+		<Price> €2,30 </Price>
+		<Image> images/menu_1 </Image>
+	</SoftDrink>
+	<SoftDrink>
+		<Name> Saft (Apfel/Orangen/Kirsch/Multivitamin) (0.4l) </Name>
+		<Description> Saft (Apfel/Orangen/Kirsch/Multivitamin) (0.4l) </Description>
+		<Price> €3,60 </Price>
+		<Image> images/menu_1 </Image>
+	</SoftDrink>
+	<SoftDrink>
+		<Name> Saftschorlen (Apfel/Orangen/Kirsch/Multivitamin) (0.2l) </Name>
+		<Description> Saftschorlen (Apfel/Orangen/Kirsch/Multivitamin) (0.2l) </Description>
+		<Price> €2,30 </Price>
+		<Image> images/menu_1 </Image>
+	</SoftDrink>
+	<SoftDrink>
+		<Name> Saftschorlen (Apfel/Orangen/Kirsch/Multivitamin) (0.4l) </Name>
+		<Description> Saftschorlen (Apfel/Orangen/Kirsch/Multivitamin) (0.4l) </Description>
+		<Price> €3,60 </Price>
+		<Image> images/menu_1 </Image>
+	</SoftDrink>
+
+	<!-- Bier -->
+	<Bier>
+		<Name> Augustiner Helles </Name>
+		<Description> Augustiner Helles </Description>
+		<Price> €3,20 </Price>
+		<Image> images/menu_1 </Image>
+	</Bier>
+	<Bier>
+		<Name> Lammsbräu </Name>
+		<Description> Lammsbräu </Description>
+		<Price> €3,20 </Price>
+		<Image> images/menu_1 </Image>
+	</Bier>
+	<Bier>
+		<Name> Becks Alcholfrei </Name>
+		<Description> Becks Alcholfrei </Description>
+		<Price> €3,20 </Price>
+		<Image> images/menu_1 </Image>
+	</Bier>
+	<Bier>
+		<Name> Hefeweizen </Name>
+		<Description> Hefeweizen </Description>
+		<Price> €3,20 </Price>
+		<Image> images/menu_1 </Image>
+	</Bier>
+	<Bier>
+		<Name> Hefeweizen Dunkel </Name>
+		<Description> Hefeweizen Dunkel </Description>
+		<Price> €3,20 </Price>
+		<Image> images/menu_1 </Image>
+	</Bier>
+	<Bier>
+		<Name> Hefeweizen Alcholfrei </Name>
+		<Description> Hefeweizen Alcholfrei </Description>
+		<Price> €3,20 </Price>
+		<Image> images/menu_1 </Image>
+	</Bier>
+	<Bier>
+		<Name> Radler </Name>
+		<Description> Radler </Description>
+		<Price> €3,20 </Price>
+		<Image> images/menu_1 </Image>
+	</Bier>
+	
+	<!-- Wein -->
+	<Wein>
+		<Name> Hauswein Rot  </Name>
+		<Description> Hauswein Rot (0,25l Glass trocken )  </Description>
+		<Price> €4,10 </Price>
+		<Image> images/menu_1 </Image>
+	</Wein>
+	<Wein>
+		<Name> Hauswein Weiß  </Name>
+		<Description> Hauswein Weiß (0,25l Glass trocken )  </Description>
+		<Price> €4,10 </Price>
+		<Image> images/menu_1 </Image>
+	</Wein>
+
+</Menu>	

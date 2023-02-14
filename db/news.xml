@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AllNews>
+  <News>
+    <Title>New Opening Hours</Title>
+    <Author>Admin</Author>
+    <Date>31.07.2018</Date>
+	<Image>logo_news.jpg</Image>
+    <ShortText>The opening hours are slightly changed starting from 01.08.2018</ShortText>
+	<LongText>The opening hours are slightly changed starting from 01.08.2018. Starting from 01.08.2018 our restaurant will be open from 12:00-15:00 and 17:00 - 22:00  during weekends. </LongText>
+  </News>
+</AllNews>

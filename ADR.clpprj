@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="D:\Programs\wamp64\www\ADR\ADR.clpprj">
+	<settings><PM_URL><![CDATA[C:/Users/worku-adm/AppData/Roaming/ClPhpEd/Projects/]]></PM_URL><PM_HOME_URL><![CDATA[C:/Users/worku-adm/AppData/Roaming/ClPhpEd/Projects/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="D:\Programs\wamp64\www\ADR\admin\index.php"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\upload_menu_item_image.php"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\admin_new_menu.php"/>
+	</lastopfiles>
+	<errors version="5.11">
+		<errfile name="D:\Programs\wamp64\www\ADR\admin\upload_menu_item_image.php">
+			<error val="9;1;14;1;102;1;"/>
+		</errfile>
+		<errfile name="D:\Programs\wamp64\www\ADR\admin\admin_new_menu.php">
+			<error val="40;59;69;59;2002;1;"/>
+			<error val="55;132;88;132;2002;1;"/>
+			<error val="55;135;88;135;2002;1;"/>
+			<error val="55;138;88;138;2002;1;"/>
+		</errfile>
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="D:\Programs\wamp64\www\ADR\js\popper.min.js" crc="1514707944"/>
+		<file name="D:\Programs\wamp64\www\ADR\js\owl.carousel.min.js" crc="1514707944"/>
+		<file name="D:\Programs\wamp64\www\ADR\js\main.js" crc="1529600890"/>
+		<file name="D:\Programs\wamp64\www\ADR\js\jquery.waypoints.min.js" crc="1514707944"/>
+		<file name="D:\Programs\wamp64\www\ADR\js\jquery.timepicker.min.js" crc="1499164942"/>
+		<file name="D:\Programs\wamp64\www\ADR\js\jquery.min.js" crc="1514707944"/>
+		<file name="D:\Programs\wamp64\www\ADR\js\jquery.magnific-popup.min.js" crc="1514807420"/>
+		<file name="D:\Programs\wamp64\www\ADR\js\jquery.easing.1.3.js" crc="1514707944"/>
+		<file name="D:\Programs\wamp64\www\ADR\js\jquery.animateNumber.min.js" crc="1514707944"/>
+		<file name="D:\Programs\wamp64\www\ADR\js\jquery-3.2.1.min.js" crc="1514707944"/>
+		<file name="D:\Programs\wamp64\www\ADR\js\google-map.js" crc="1529601110"/>
+		<file name="D:\Programs\wamp64\www\ADR\js\bootstrap.min.js" crc="1514707944"/>
+		<file name="D:\Programs\wamp64\www\ADR\js\bootstrap-datepicker.js" crc="1513783608"/>
+		<file name="D:\Programs\wamp64\www\ADR\css\style.css" crc="1529610801"/>
+		<file name="D:\Programs\wamp64\www\ADR\css\owl.theme.default.min.css" crc="1514707944"/>
+		<file name="D:\Programs\wamp64\www\ADR\css\owl.carousel.min.css" crc="1514707944"/>
+		<file name="D:\Programs\wamp64\www\ADR\css\open-iconic-bootstrap.min.css" crc="1514707944"/>
+		<file name="D:\Programs\wamp64\www\ADR\css\magnific-popup.css" crc="1514807358"/>
+		<file name="D:\Programs\wamp64\www\ADR\css\jquery.timepicker.css" crc="1499164974"/>
+		<file name="D:\Programs\wamp64\www\ADR\css\icomoon.css" crc="1514707944"/>
+		<file name="D:\Programs\wamp64\www\ADR\css\bootstrap.min.css" crc="1514707944"/>
+		<file name="D:\Programs\wamp64\www\ADR\css\bootstrap-datepicker.css" crc="1513783632"/>
+		<file name="D:\Programs\wamp64\www\ADR\css\animate.css" crc="1524496466"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\sql\sql_initialize.php" crc="1531232255"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\sql\sql.txt" crc="1485918190"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\js\jquery.min.js" crc="1530866776"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\js\index.js" crc="1530786625"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\js\additional.js" crc="1531403802"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\css\style2.css" crc="1530627188"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\css\style.css" crc="1531209877"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\css\normalize.min.css" crc="1530801827"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\css\fonts.css" crc="1530801922"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\css\css.html" crc="1530801969"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\XX_admin_panel.php" crc="1530733780"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\XX add_new_menu_item.php" crc="1530800340"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\verify.php" crc="1485973753"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\upload_success.php" crc="1531173502"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\upload_others.php" crc="1530979100"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\upload_menu_item_image2.php" crc="1530996066"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\upload_menu_item_image.php" crc="1530995659"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\upload_images.php" crc="1531175122"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\upload.php" crc="1530979100"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\try_ajax.php" crc="1530784831"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\success.php" crc="1485917873"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\simple_upload_example.php" crc="1531120225"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\reset_password.php" crc="1486005876"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\reset.php" crc="1486005651"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\register.php" crc="1530712989"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\profile.php" crc="1485917291"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\my_admin.php" crc="1530562145"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\logout.php" crc="1485916504"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\login.php" crc="1530734537"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\index.php" crc="1531390275"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\forgot.php" crc="1485984506"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\error.php" crc="1485915395"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\db.php" crc="1530609051"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\custom_checkbox.php" crc="1530695865"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\ajax_info.txt" crc="1530777303"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\admin_welcome.php" crc="1531122279"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\admin_upload_success.php" crc="1531122503"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\admin_upload_file.php" crc="1531173108"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\admin_update_opening_hours.php" crc="1530776508"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\admin_update_menu.php" crc="1530776538"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\admin_new_menu.php" crc="1531310060"/>
+		<file name="D:\Programs\wamp64\www\ADR\admin\add_menu_item_to_db.php" crc="1531403763"/>
+		<file name="D:\Programs\wamp64\www\ADR\menu2.xml" crc="1529680307"/>
+		<file name="D:\Programs\wamp64\www\ADR\menu_modifed.xml" crc="1529939525"/>
+		<file name="D:\Programs\wamp64\www\ADR\menu.xml" crc="1530175829"/>
+		<file name="D:\Programs\wamp64\www\ADR\index.html" crc="1530284276"/>
+	</filescache>
+</project>

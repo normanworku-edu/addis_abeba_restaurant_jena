@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Authentic Ethiopian restaurant offering traditional dishes in a warm atmosphere">
+    <title>Ethiopian Restaurant - Authentic Cuisine</title>
+    
+    <!-- Bootstrap CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    
+</head>
+<body class="home-page">
+    <!-- Header will be inserted here by JavaScript -->
+    <div id="header-placeholder"></div>
+    
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content text-center text-white">
+                <h1 class="text-white fw-bold fs-2 mb-3" data-translate="heroTitle">Welcome to Addis Abeba Restaurant</h1>
+                <h5 class="fs-2 text-light mb-4 hero-subtitle" data-translate="heroSubtitle">Enjoy traditional Ethiopian dishes in a cozy atmosphere. </h5>
+
+                <div class="d-flex justify-content-center gap-2">
+                    <a href="menu.html" class="btn btn-primary btn-bg mx-1" data-translate="heroBtnMenu">View Menu</a>
+                    <a href="reservations.html" class="btn btn-outline-light btn-bg mx-1" data-translate="heroBtnReserve">Make Reservation</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- About Section -->
+    <section class="section bg-light">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 mb-4 mb-lg-0">
+                    <h2 class="section-title" data-translate="aboutTitle">About Our Restaurant</h2>
+                    <p data-translate="aboutText">Our restaurant brings the rich flavors of Ethiopia to Berlin. With traditional recipes passed down through generations, we offer a unique culinary experience. Our Injera (traditional sourdough flatbread) is made fresh daily and serves as the foundation for our delicious dishes.</p>
+                    <a href="contact.html" class="btn btn-outline-primary" data-translate="learnMore">Learn More</a>
+                </div>
+                <div class="col-lg-6">
+                    <img src="assets/img/gallery/gallery1.jpg" alt="Restaurant interior" class="img-fluid rounded shadow">
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Featured Dishes -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title text-center" data-translate="featuredTitle">Our Specialties</h2>
+            
+            <div id="selected-dishes-placeholder"></div>
+
+            <!--
+            <div class="row">
+                !-- Dish 1 --
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <img src="assets/img/dishes/doro-wot.jpg" class="card-img-top" alt="Doro Wot">
+                        <div class="card-body">
+                            <h3 class="card-title">Doro Wot</h3>
+                            <p class="card-text">Ethiopian National Dish - spicy chicken stew</p>
+                            <p class="price">€8.50</p>
+                            <a href="menu.html#non-veg" class="btn btn-sm btn-outline-primary" data-translate="viewBtnMenu">View Menu</a>
+                        </div>
+                    </div>
+                </div>
+                
+                !-- Dish 2 --
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <img src="assets/img/dishes/shiro.jpg" class="card-img-top" alt="Shiro Wot">
+                        <div class="card-body">
+                            <h3 class="card-title">Shiro Wot</h3>
+                            <p class="card-text">Spiced chickpea stew</p>
+                            <p class="price">€6.50</p>
+                            <a href="menu.html#veg" class="btn btn-sm btn-outline-primary" data-translate="viewBtnMenu">View Menu</a>
+                        </div>
+                    </div>
+                </div>
+                
+                !-- Dish 3 --
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <img src="assets/img/dishes/honey-cake.jpg" class="card-img-top" alt="Ethiopian Honey Cake">
+                        <div class="card-body">
+                            <h3 class="card-title">Ethiopian Honey Cake</h3>
+                            <p class="card-text">Traditional dessert made with Ethiopian honey</p>
+                            <p class="price">€4.00</p>
+                            <a href="menu.html#desserts" class="btn btn-sm btn-outline-primary" data-translate="viewBtnMenu">View Menu</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            -->
+        </div>
+    </section>
+    
+    <!-- Special Offers -->
+    <section class="section bg-light" id="special-offers-container">
+        <div class="container">
+            <h2 class="section-title text-center" data-translate="specialOffersTitle">Special Offers</h2>
+            <div id="offers-news-placeholder"></div>
+        </div>
+    </section>
+    
+    <!-- Reviews Section -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title text-center" data-translate="reviewsTitle">What Our Guests Say</h2>
+            
+            <div id="selected-reviews-placeholder"></div>
+            
+            <!-- 
+            <div class="row">
+                <div class="col-md-6 mb-4">
+                    <div class="review-card">
+                        <div class="d-flex align-items-center mb-3">
+                            <div class="reviewer-img bg-secondary me-3"></div>
+                            <div>
+                                <h5>Anna Müller</h5>
+                                <div class="star-rating">★★★★★</div>
+                            </div>
+                        </div>
+                        <p>The best Ethiopian food I've had outside of Ethiopia! The Doro Wot is amazing.</p>
+                        <small class="text-muted">2023-05-15</small>
+                    </div>
+                </div>
+                
+                <div class="col-md-6 mb-4">
+                    <div class="review-card">
+                        <div class="d-flex align-items-center mb-3">
+                            <div class="reviewer-img bg-secondary me-3"></div>
+                            <div>
+                                <h5>John Smith</h5>
+                                <div class="star-rating">★★★★☆</div>
+                            </div>
+                        </div>
+                        <p>Great atmosphere and friendly service. The vegetarian platter was delicious.</p>
+                        <small class="text-muted">2023-04-22</small>
+                    </div>
+                </div>
+            </div>
+             -->
+            
+            <div class="text-center mt-4">
+                <a href="reviews.html" class="btn btn-primary" data-translate="viewAllReviews">View All Reviews</a>
+            </div>
+        </div>
+    </section>
+    
+
+
+    <!-- Offer news Modal -->
+    <div class="modal fade" id="offerNewsModal" tabindex="-1"> <!-- aria-hidden="true" -->
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="offerNewsModalTitle">Dish Name</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <img src="" alt="" class="img-fluid mb-3" id="offerNewsModalImage">
+                    <p id="offerNewsModalDescription"></p>
+                    <p class="price fs-4" id="offerNewsModalDate"></p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" data-translate="close">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- Footer will be inserted here by JavaScript -->
+    <div id="footer-placeholder"></div>
+    
+    <!-- Bootstrap JS Bundle with Popper -->
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Shared JS -->
+    <script src="assets/js/shared.js"></script>
+    
+    <!-- Main JS -->
+    <script src="assets/js/main.js"></script>
+    
+    <script>
+        // Insert header and footer
+        document.getElementById('header-placeholder').innerHTML = generateHeader();
+        document.getElementById('footer-placeholder').innerHTML = generateFooter();
+
+        // Initialize Offer news Modal modal
+        const offerNewsModal = new bootstrap.Modal(document.getElementById('offerNewsModal'));
+        document.getElementById('offerNewsModal').addEventListener('show.bs.modal', function(event) {
+            const button = event.relatedTarget;
+            document.getElementById('offerNewsModalTitle').textContent = button.getAttribute('data-title');
+            document.getElementById('offerNewsModalDescription').textContent = button.getAttribute('data-desc');
+            document.getElementById('offerNewsModalDate').textContent = button.getAttribute('data-date');
+            document.getElementById('offerNewsModalImage').src = 'assets/img/offers_news/' + button.getAttribute('data-image');
+            document.getElementById('offerNewsModalImage').alt = button.getAttribute('data-title');
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <category id="googlemaps">
+        <name lang="en">Google Maps</name>
+        <name lang="de">DE Google Maps</name>
+        <name lang="am">AM Google Maps</name>
+        <review>
+            <id>1</id>
+            <name lang="en">Abebe Kebede</name>
+            <name lang="de">DE Abebe Kebede</name>
+            <name lang="am">AM Abebe Kebede</name>
+            <comment lang="en">Ethiopian National Dish - spicy chicken stew</comment>
+            <comment lang="de">Äthiopisches Nationalgericht - scharfes Hühnchen-Eintopf</comment>
+            <comment lang="am">የኢትዮጵያ ብሔራዊ ምግብ - ሚጥሚጣ የዶሮ ምግብ</comment>
+            <date>12.10.2022</date>
+            <rating>4</rating>
+            <hidden>false</hidden>
+            <selected>true</selected>
+        </review>
+        <review>
+            <id>2</id>
+            <name lang="en">Abebe Kebede2</name>
+            <name lang="de">DE Abebe Kebede2</name>
+            <name lang="am">AM Abebe Kebede2</name>
+            <comment lang="en">Ethiopian National Dish - spicy chicken stew</comment>
+            <comment lang="de">Äthiopisches Nationalgericht - scharfes Hühnchen-Eintopf</comment>
+            <comment lang="am">የኢትዮጵያ ብሔራዊ ምግብ - ሚጥሚጣ የዶሮ ምግብ</comment>
+            <date>12.10.2022</date>
+            <rating>4</rating>
+            <hidden>false</hidden>
+            <selected>true</selected>
+        </review>
+    </category>
+    
+    <category id="tripadvisor">
+        <name lang="en">Trip Advisor</name>
+        <name lang="de">DE Trip Advisor</name>
+        <name lang="am">AM Trip Advisor</name>
+        <review>
+            <id>3</id>
+            <name lang="en">Abebe Kebede3</name>
+            <name lang="de">DE Abebe Kebede3</name>
+            <name lang="am">AM Abebe Kebede3</name>
+            <comment lang="en">Ethiopian National Dish - spicy chicken stew</comment>
+            <comment lang="de">Äthiopisches Nationalgericht - scharfes Hühnchen-Eintopf</comment>
+            <comment lang="am">የኢትዮጵያ ብሔራዊ ምግብ - ሚጥሚጣ የዶሮ ምግብ</comment>
+            <date>12.10.2022</date>
+            <rating>4</rating>
+            <hidden>false</hidden>
+            <selected>true</selected>
+        </review>
+        <review>
+            <id>4</id>
+            <name lang="en">Abebe Kebede4</name>
+            <name lang="de">DE Abebe Kebede4</name>
+            <name lang="am">AM Abebe Kebede4</name>
+            <comment lang="en">Ethiopian National Dish - spicy chicken stew</comment>
+            <comment lang="de">Äthiopisches Nationalgericht - scharfes Hühnchen-Eintopf</comment>
+            <comment lang="am">የኢትዮጵያ ብሔራዊ ምግብ - ሚጥሚጣ የዶሮ ምግብ</comment>
+            <date>12.10.2022</date>
+            <rating>4</rating>
+            <hidden>false</hidden>
+            <selected>true</selected>
+        </review>
+    </category>
+    
+    <!-- Additional categories would continue here -->
+</menu>

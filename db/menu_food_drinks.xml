@@ -92,7 +92,7 @@
 				<Name> 1. Doro Wot </Name>
 				<Description>  </Description>
 				<LongDescription> Äthiopisches Nationalgericht, Hähnchen in scharfer Soße mit äthiopischen Gewürzen, gekochtem Ei und bei Wunsch mit Frischkäse. Allergene: 1. 2. </LongDescription>
-				<Price> €15,90 </Price>
+				<Price> €17,20 </Price>
 				<Image> menu_doro_wot.jpg </Image>
 			</Dish>
 			
@@ -100,28 +100,28 @@
 				<Name> 2. Kay Wot </Name>
 				<Description>  </Description>
 				<LongDescription> Zu Würfeln geschnittenes Rindfleisch in scharfer Soße, gewürzt mit äthiopischem Chilli. Allergene: 1. </LongDescription>
-				<Price> €16,50 </Price>
+				<Price> €17,50 </Price>
 				<Image> menu_yebere_wot.jpg </Image>
 			</Dish>
 			<Dish>
 				<Name> 3. Ye Beg Wot </Name>
 				<Description>  </Description>
 				<LongDescription> Zu Würfeln geschnittenes Schaffleisch in scharfer Soße, gewürzt mit äthiopischem Chilli. Allergene: 1. </LongDescription>
-				<Price> €17,20 </Price>
+				<Price> €18,20 </Price>
 				<Image> menu_yebeg_wot.jpg </Image>
 			</Dish>
 			<Dish>
 				<Name> 4. Bozena Shiro </Name>
 				<Description>  </Description>
 				<LongDescription> Milde Soße aus Kichererbsenmehl mit Rindfleischstückchen und Zwiebeln. Allergene: 1. </LongDescription>
-				<Price> €13,90 </Price>
+				<Price> €14,50 </Price>
 				<Image> menu_bozena_shiro.jpg </Image>
 			</Dish>
 			<Dish>
 				<Name> 7. Yebere Tibs </Name>
 				<Description> </Description>
 				<LongDescription> Gebratene Rindfleischstückchen gedünstet mit äthiopischen Gewürzen, Tomaten, Zwiebeln, grüner Chilli und Rosmarin. Allergene: 1. </LongDescription>
-				<Price> €16,50 </Price>
+				<Price> €17,20 </Price>
 				<Image> menu_yebere_tibs.jpg </Image>
 			</Dish>
 			<Dish>
@@ -142,7 +142,7 @@
 				<Name> 11. Beyeaynet </Name>
 				<Description>  </Description>
 				<LongDescription> Probierteller mit verschiedenen Fleischsoßen. Allergene: 1.  </LongDescription>
-				<Price> €18,20 </Price>
+				<Price> €20,00 </Price>
 				<Image> yeatekilt_beyanetu.jpg </Image>
 			</Dish>
 		</NonVegetarian>
@@ -152,14 +152,14 @@
 				<Name> 21. Alicha </Name>
 				<Description>  </Description>
 				<LongDescription> Gericht aus Weißkohl, Aubergine, Möhren und Zwiebeln. Allergene: 1.   </LongDescription>
-				<Price> €13,50 </Price>
+				<Price> €14,50 </Price>
 				<Image> menu_alicha.jpg </Image>
 			</Dish>
 			<Dish>
 				<Name> 22. Shiro </Name>
 				<Description>  </Description>
 				<LongDescription> Milde Soße aus Kichererbsenmehl, Zwiebeln, Tomaten und Salat. Allergene: 1.  </LongDescription>
-				<Price> €12,50 </Price>
+				<Price> €13,50 </Price>
 				<Image> menu_shiro.jpg </Image>
 			</Dish>
 			<Dish>
@@ -173,14 +173,14 @@
 				<Name> 24. Ruz Beatekilt  </Name>
 				<Description>  </Description>
 				<LongDescription> Reis oder Couscous mit verschiedenen Gemüse und Salat. Allergene: -  </LongDescription>
-				<Price> €13,50 </Price>
+				<Price> €14,50 </Price>
 				<Image> menu_ruz_beatekilt.jpg </Image>
 			</Dish>			
 			<Dish>
 				<Name> 25. Yeatekilt Beyeaynet </Name>
 				<Description> Für 1 Person </Description>
 				<LongDescription> Probierteller mit verschiedenen vegitarischen soßen. Allergene: 1.  </LongDescription>
-				<Price> €16,20 </Price>
+				<Price> €17,00 </Price>
 				<Image> menu_yetsom_beyeaynet.jpg </Image>
 			</Dish>
 		</Vegetarian>
@@ -189,28 +189,28 @@
 				<Name> 41. Mahiberawi für 2 Person </Name>
 				<Description>  </Description>
 				<LongDescription> Probierteller mit verschiedenen Fleischsoßen und vegitarischen Soßen. Allergene: 1. 2. </LongDescription>
-				<Price> €35,00 </Price>
+				<Price> €39,00 </Price>
 				<Image> menu_mahiberawi.jpg </Image>
 			</Dish>
 			<Dish>
 				<Name> 42. Mahiberawi für 4 Person </Name>
 				<Description>  </Description>
 				<LongDescription> Probierteller mit verschiedenen Fleischsoßen und vegitarischen Soßen.  Allergene: 1. 2.  </LongDescription>
-				<Price> €65,00 </Price>
+				<Price> €74,00 </Price>
 				<Image> menu_mahiberawi.jpg </Image>
 			</Dish>
 			<Dish>
 				<Name> 43. Yeatekilt Beyeaynet für 2 Person </Name>
 				<Description>  </Description>
 				<LongDescription> Probierteller mit verschiedenen vegitarischen Soßen. Allergene: 1.  </LongDescription>
-				<Price> €31,00 </Price>
+				<Price> €33,00 </Price>
 				<Image> menu_yetsom_beyeaynet.jpg </Image>
 			</Dish>
 			<Dish>
 				<Name> 44. Yeatekilt Beyeaynet für 4 Person</Name>
 				<Description>  </Description>
 				<LongDescription> Probierteller mit verschiedenen vegitarischen Soßen. Allergene: 1.  </LongDescription>
-				<Price> €59,00 </Price>
+				<Price> €63,00 </Price>
 				<Image> menu_yetsom_beyeaynet.jpg </Image>
 			</Dish>
 		</Probierteller>	
@@ -219,14 +219,14 @@
 				<Name> 81. Joghurt mit Honig </Name>
 				<Description>  </Description>
 				<LongDescription> Naturjoghurt mit Honig, Walnüssen und Haselnusskrokant.  Allergene: 3. 4. 5. </LongDescription>
-				<Price> €4,50 </Price>
+				<Price> €6,50 </Price>
 				<Image> menu_joghort_honig.jpg </Image>
 			</Dish>
 			<Dish>
 				<Name> 82. Joghurt mit Kirschen </Name>
 				<Description>  </Description>
 				<LongDescription> Naturjoghurt mit Kirschen, Walnüssen und Haselnusskrokant.  Allergene: 1. 2.  </LongDescription>
-				<Price> €4,50 </Price>
+				<Price> €6,50 </Price>
 				<Image> menu_joghort_kirche.jpg </Image>
 			</Dish>
 		</Dessert>	
@@ -235,7 +235,7 @@
 				<Name> Buna für 1/2 Person </Name>
 				<Description> </Description>
 				<LongDescription> Traditionaeller äthiopischer Kaffee serviert in einer äthiopischen Kaffekanne. Allergene: -  Zusatzstoffe: g.  </LongDescription>
-				<Price> €3,60/€6,80 -  </Price>
+				<Price> €4,60/€7,80 -  </Price>
 				<Image> menu_buna_for_1_person.jpg </Image>
 			</Drink>
 
@@ -243,42 +243,42 @@
 				<Name> Äthiopischer Machiato Einfach/Doppelt </Name>
 				<Description>  </Description>
 				<LongDescription> Äthiopischer Kaffee mit Milch. Allergene: 4.  Zusatzstoffe: g.  </LongDescription>
-				<Price> €3,20/€4,20 </Price>
+				<Price> €3,20/€4,30 </Price>
 				<Image> menu_machiato.jpg </Image>
 			</Drink>	
 			<Drink>
 				<Name> Espresso Einfach/Doppelt </Name>
 				<Description>   </Description>
 				<LongDescription> Espresso Einfach. Allergene: -  Zusatzstoffe: g. </LongDescription>
-				<Price> €2,20/€3,10 </Price>
+				<Price> €2,90/€3,90 </Price>
 				<Image> menu_espresso.jpg </Image>
 			</Drink>	
 			<Drink>
 				<Name> Chai </Name>
 				<Description>   </Description>
 				<LongDescription> Schwarztee mit Gewürzen. Allergene: -  Zusatzstoffe: g.  </LongDescription>
-				<Price> €2,90 </Price>
+				<Price> €3,20 </Price>
 				<Image> menu_tea.jpg </Image>
 			</Drink>
 			<Drink>
 				<Name> Ingwer Chai </Name>
 				<Description>  </Description>
 				<LongDescription> mit frischem Ingwer. Allergene: -  Zusatzstoffe: -  </LongDescription>
-				<Price> €3,10 </Price>
+				<Price> €3,50 </Price>
 				<Image> menu_gingar_tea.jpg </Image>
 			</Drink>
 			<Drink>
 				<Name> Chai Espries</Name>
 				<Description>   </Description>
 				<LongDescription> Schwarztee mit Kaffee. Allergene: -  Zusatzstoffe: g.  </LongDescription>
-				<Price> €3,20 </Price>
+				<Price> €3,50 </Price>
 				<Image> menu_tea_coffee_esprise.jpg </Image>
 			</Drink>
 			<Drink>
 				<Name> Haustee </Name>
 				<Description>  </Description>
 				<LongDescription> Ingwer, Orangen, Schwarztee, Honig, 4cl Rum. Allergene: -  Zusatzstoffe: -  </LongDescription>
-				<Price> €6,20 </Price>
+				<Price> €7,80 </Price>
 				<Image> menu_house_tea.jpg </Image>
 			</Drink>
 		</WarmDrinks>	
@@ -288,14 +288,14 @@
 				<Name> Miniral Wasser (Still/Classic) (0.2l/0,4l/Flasche) </Name>
 				<Description> Miniral Wasser (Still/Classic) (0.2l/0,4l/Flasche) </Description>
 				<LongDescription> Miniral Wasser (Still/Classic) (0.2l/0,4l/Flasche). Allergene: -  Zusatzstoffe: -  </LongDescription>
-				<Price> €1,90/€3,20/€5,50 </Price>
+				<Price> €2,70/€4,30/€7,60 </Price>
 				<Image> menu_miniral_water.jpg </Image>
 			</Drink>
 			<Drink>
 				<Name> Coca Cola/Sprite/Fanta (0,2l/0.4l) </Name>
 				<Description>  </Description>
 				<LongDescription> Coca Cola (0,2l). Allergene: -  Zusatzstoffe: a. d. f. g.  </LongDescription>
-				<Price> €2,80/€4,20 </Price>
+				<Price> €3,00/€4,90 </Price>
 				<Image> menu_coca.jpg </Image>
 			</Drink>
 			
@@ -303,14 +303,14 @@
 				<Name> Saft (Apfel/ Orangen/ Kirsch/ Multivitamin) (0,2l/0.4l) </Name>
 				<Description> Saft (Apfel/ Orangen/ Kirsch/ Multivitamin) (0,2l/0.4l) </Description>
 				<LongDescription> Saft (Apfel/ Orangen/ Kirsch/ Multivitamin) (0,2l/0.4l). Allergene: -  Zusatzstoffe: -  </LongDescription>
-				<Price> €3,10/€4,60 </Price>
+				<Price> €3,00/€4,90 </Price>
 				<Image> menu_saft.jpg </Image>
 			</Drink>
 			<Drink>
 				<Name> Saftschorlen (Apfel/ Orangen/ Kirsch/ Multivitamin) (0,2l/0.4l) </Name>
 				<Description> Saftschorlen (pfel/ Orangen/ Kirsch/ Multivitamin) (0,2l/0.4l) </Description>
 				<LongDescription> Saftschorlen (Apfel/ Orangen/ Kirsch/ Multivitamin) (0,2l/0.4l). Allergene: -  Zusatzstoffe: -  </LongDescription>
-				<Price> €2,80/€4,20 </Price>
+				<Price> €3,00/€4,90 </Price>
 				<Image> menu_saft.jpg </Image>
 			</Drink>
 		</SoftDrinks>
@@ -320,29 +320,37 @@
 				<Name> Äthiopisches Bier </Name>
 				<Description> Glas 0,5l  </Description>
 				<LongDescription> Glas 0,3l. Allergene: -  Zusatzstoffe: -  </LongDescription>
-				<Price> €4,90 </Price>
+				<Price> €5,90 </Price>
 				<Image> menu_beer_glass.jpg </Image>
 			</Drink>
 			<Drink>
 				<Name> Bier (Augustiner Helles/ Lammsbräu/ Hefeweizen/ Hefeweizen Dunkel/ Radler)</Name>
 				<Description> Glas 0,5l  </Description>
 				<LongDescription> ABier (Augustiner Helles/ Lammsbräu/ Hefeweizen/ Hefeweizen Dunkel/ Radler). Allergene: -  Zusatzstoffe: -  </LongDescription>
-				<Price> €4,20 </Price>
+				<Price> €5,20 </Price>
 				<Image> menu_beer_glass.jpg </Image>
 			</Drink>
 			<Drink>
 				<Name> Bier Alcholfrei (Becks Alcholfrei/ Hefeweizen Alcholfrei) </Name>
 				<Description> Glas 0,5l  </Description>
 				<LongDescription> Becks Alcholfrei. Allergene: -  Zusatzstoffe: -  </LongDescription>
-				<Price> €4,20 </Price>
+				<Price> €5,20 </Price>
 				<Image> menu_beer_glass.jpg </Image>
 			</Drink>
 
+                <Drink>
+				<Name> Äthiopischer Wein (trocken) (0,25l/Flasche)  </Name>
+				<Description> Äthiopischer Wein ( trocken)   </Description>
+				<LongDescription> Äthiopischer Wein ( trocken). Allergene: -  Zusatzstoffe: -  </LongDescription>
+				<Price> €7,50/€21,50  </Price>
+				<Image> menu_red_wein.jpg </Image>
+			</Drink>
+			
 			<Drink>
-				<Name> Wein (Hauswein Rot/Weiß trocken) (0,25l/Flasche)  </Name>
-				<Description> Wein (Hauswein Rot/Weiß trocken) (0,25l/Flasche)  </Description>
+				<Name> Wein (Hauswein Rot/Weiß halbtrocken und trocken) (0,25l/Flasche)  </Name>
+				<Description> Wein (Hauswein Rot/Weiß halbtrocken und trocken) (0,25l/Flasche)  </Description>
 				<LongDescription> Wein (Hauswein Rot/Weiß trocken) (0,25l/Flasche). Allergene: -  Zusatzstoffe: -  </LongDescription>
-				<Price> €5,10/€14,90  </Price>
+				<Price> €6,50/€16,90  </Price>
 				<Image> menu_red_wein.jpg </Image>
 			</Drink>
 
@@ -350,7 +358,7 @@
 				<Name> Amarula/ Williams Christ Birne/ Havana Club Rum/ Grappa (2cl/4cl Glas) </Name>
 				<Description> Amarula/ Williams Christ Birne/ Havana Club Rum/ Grappa (2cl/4cl Glas)  </Description>
 				<LongDescription> Amarula/ Williams Christ Birne/ Havana Club Rum/ Grappa (2cl/4cl Glas). Allergene: -  Zusatzstoffe: -  </LongDescription>
-				<Price> €3,90/€4,70 </Price>
+				<Price> €3,90/€5,50 </Price>
 				<Image> menu_alchol_glass.jpg </Image>
 			</Drink>				
 		</Bier>		

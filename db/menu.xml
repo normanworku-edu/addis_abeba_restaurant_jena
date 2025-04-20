@@ -92,7 +92,7 @@
 				<Name> 1. Doro Wot </Name>
 				<Description>  </Description>
 				<LongDescription> Äthiopisches Nationalgericht, Hähnchen in scharfer Soße mit äthiopischen Gewürzen, gekochtem Ei und bei Wunsch mit Frischkäse. Allergene: 1. 2. </LongDescription>
-				<Price> €15,90 </Price>
+				<Price> €17,20 </Price>
 				<Image> menu_doro_wot.jpg </Image>
 			</Dish>
 			
@@ -307,6 +307,7 @@
 			</Drink>
 		</WarmDrinks>	
 		
+
 		<SoftDrinks>Alkoholfreie Getränke
 			<Drink>
 				<Name> Miniral Wasser (Still/Classic) (Flasche) </Name>
@@ -490,6 +491,7 @@
 				<Image> menu_white_wein.jpg </Image>
 			</Drink>			
 		</Wein>
+		
         <Spirituosen>Spirituosen
 			<Drink>
 				<Name> Amarula  </Name>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<offers_and_news>
+    <category id="offers">
+        <name lang="en">Offers</name>
+        <name lang="de">Getränke</name>
+        <name lang="am">መጠጥ</name>
+        <item>
+            <id>1</id>
+            <title lang="en">Doro Wot</title>
+            <title lang="de">Doro Wot</title>
+            <title lang="am">ዶሮ ወጥ</title>
+            <shortDescription lang="en">Ethiopian National Dish - spicy chicken stew</shortDescription>
+            <shortDescription lang="de">Äthiopisches Nationalgericht - scharfes Hühnchen-Eintopf</shortDescription>
+            <shortDescription lang="am">የኢትዮጵያ ብሔራዊ ምግብ - ሚጥሚጣ የዶሮ ምግብ</shortDescription>
+            <longDescription lang="en">Traditional Ethiopian chicken stew made with berbere spice, onions, garlic, ginger, and boiled eggs. Served with injera.</longDescription>
+            <longDescription lang="de">Traditionelles äthiopisches Hühnchen-Eintopf mit Berbere-Gewürz, Zwiebeln, Knoblauch, Ingwer und gekochten Eiern. Serviert mit Injera.</longDescription>
+            <longDescription lang="am">ባህላዊ የዶሮ ወጥ ከበርበሬ ቅጠል፣ ሽንኩርት፣ ነጭ ሽንኩርት፣ እንጉዳይ እና የተቀቀሉ እንቁላሎች የተሰራ። ከእንጀራ ጋር ይቀርባል።</longDescription>
+            <date>dd.mm.yyy</date>
+            <image>offer1.jpg</image>
+            <hidden>false</hidden>
+        </item>
+        
+        <item>
+            <id>1</id>
+            <title lang="en">Doro Wot</title>
+            <title lang="de">Doro Wot</title>
+            <title lang="am">ዶሮ ወጥ</title>
+            <shortDescription lang="en">Ethiopian National Dish - spicy chicken stew</shortDescription>
+            <shortDescription lang="de">Äthiopisches Nationalgericht - scharfes Hühnchen-Eintopf</shortDescription>
+            <shortDescription lang="am">የኢትዮጵያ ብሔራዊ ምግብ - ሚጥሚጣ የዶሮ ምግብ</shortDescription>
+            <longDescription lang="en">Traditional Ethiopian chicken stew made with berbere spice, onions, garlic, ginger, and boiled eggs. Served with injera.</longDescription>
+            <longDescription lang="de">Traditionelles äthiopisches Hühnchen-Eintopf mit Berbere-Gewürz, Zwiebeln, Knoblauch, Ingwer und gekochten Eiern. Serviert mit Injera.</longDescription>
+            <longDescription lang="am">ባህላዊ የዶሮ ወጥ ከበርበሬ ቅጠል፣ ሽንኩርት፣ ነጭ ሽንኩርት፣ እንጉዳይ እና የተቀቀሉ እንቁላሎች የተሰራ። ከእንጀራ ጋር ይቀርባል።</longDescription>
+            <date>dd.mm.yyy</date>
+            <image>offer2.jpg</image>
+            <hidden>false</hidden>
+        </item>
+
+    </category>
+
+     <category id="news">
+        <name lang="en">News</name>
+        <name lang="de">Getränke</name>
+        <name lang="am">መጠጥ</name>
+        <item>
+            <id>1</id>
+            <title lang="en">Doro Wot</title>
+            <title lang="de">Doro Wot</title>
+            <title lang="am">ዶሮ ወጥ</title>
+            <shortDescription lang="en">Ethiopian National Dish - spicy chicken stew</shortDescription>
+            <shortDescription lang="de">Äthiopisches Nationalgericht - scharfes Hühnchen-Eintopf</shortDescription>
+            <shortDescription lang="am">የኢትዮጵያ ብሔራዊ ምግብ - ሚጥሚጣ የዶሮ ምግብ</shortDescription>
+            <longDescription lang="en">Traditional Ethiopian chicken stew made with berbere spice, onions, garlic, ginger, and boiled eggs. Served with injera.</longDescription>
+            <longDescription lang="de">Traditionelles äthiopisches Hühnchen-Eintopf mit Berbere-Gewürz, Zwiebeln, Knoblauch, Ingwer und gekochten Eiern. Serviert mit Injera.</longDescription>
+            <longDescription lang="am">ባህላዊ የዶሮ ወጥ ከበርበሬ ቅጠል፣ ሽንኩርት፣ ነጭ ሽንኩርት፣ እንጉዳይ እና የተቀቀሉ እንቁላሎች የተሰራ። ከእንጀራ ጋር ይቀርባል።</longDescription>
+            <date>dd.mm.yyy</date>
+            <image>news1.jpg</image>
+            <hidden>false</hidden>
+        </item>
+        
+        <item>
+            <id>1</id>
+            <title lang="en">Doro Wot</title>
+            <title lang="de">Doro Wot</title>
+            <title lang="am">ዶሮ ወጥ</title>
+            <shortDescription lang="en">Ethiopian National Dish - spicy chicken stew</shortDescription>
+            <shortDescription lang="de">Äthiopisches Nationalgericht - scharfes Hühnchen-Eintopf</shortDescription>
+            <shortDescription lang="am">የኢትዮጵያ ብሔራዊ ምግብ - ሚጥሚጣ የዶሮ ምግብ</shortDescription>
+            <longDescription lang="en">Traditional Ethiopian chicken stew made with berbere spice, onions, garlic, ginger, and boiled eggs. Served with injera.</longDescription>
+            <longDescription lang="de">Traditionelles äthiopisches Hühnchen-Eintopf mit Berbere-Gewürz, Zwiebeln, Knoblauch, Ingwer und gekochten Eiern. Serviert mit Injera.</longDescription>
+            <longDescription lang="am">ባህላዊ የዶሮ ወጥ ከበርበሬ ቅጠል፣ ሽንኩርት፣ ነጭ ሽንኩርት፣ እንጉዳይ እና የተቀቀሉ እንቁላሎች የተሰራ። ከእንጀራ ጋር ይቀርባል።</longDescription>
+            <date>dd.mm.yyy</date>
+            <image>news2.jpg</image>
+            <hidden>false</hidden>
+        </item>
+        
+    </category>
+    <!-- Additional categories would continue here -->
+</offers_and_news>

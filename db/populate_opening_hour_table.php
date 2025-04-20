@@ -40,7 +40,7 @@ $opening_hour_table_html_content = "<table class=\"table table-striped\" align=c
             </table>";
 			   
 $opening_hour_table_html_content = "<p class=\"text-black\">
-					 Öffnungszeiten: Mi-So: 17-22 Uhr, (Mo: Ruhetag) <br> 
+					 Öffnungszeiten: Di-So: 17-22 Uhr, (Mo: Ruhetag) <br> 
 					 Tel: 0151/26251384 oder  03641/7967670 <br> 
 					 Abholservice ebenfalls möglich. <br> 
 					 bei Selbstabholung: Verpackung - 2 Euro <br>
@@ -50,8 +50,9 @@ $opening_hour_table_html_content = "<p class=\"text-black\">
 $opening_hour_table_html_content = "<p class=\"text-black\">
 					 
 					 					<br> 
-					Mi-Sa: Restaurant geöffnet (17-22 Uhr) <br> 
-					So-Di: geschlossen (Ruhetag) <br>
+					Di-Sa: Restaurant geöffnet (17-22 Uhr) <br> 
+					So-Mo: geschlossen (Ruhetag) <br>
+					
 					<br> 
 					Wir bitten Euch telefonisch zu reservieren<br> 
 					Tel: 0151/26251384 oder  03641/7967670 <br> 

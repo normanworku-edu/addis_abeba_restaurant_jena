@@ -51,10 +51,10 @@ foreach($xml->children() as $main_category) { // Lunch, Dinner, Drink
 							$this_description_short_id = "short_description_".$menu_item_identifier_suffix;
 							$this_description_display_fun_name = "display_description_".$menu_item_identifier_suffix;
 
-							//<img class=\"mr-3\" src=\"images/menu/". trim($this_item->Image). "\" class=\"img-fluid\" alt=\"images/".$this_item->Image."\"> 
-
+							
 							$menu_html_contnet .=   
 							"<div class=\"media menu-item\">
+								<img class=\"mr-3\" src=\"images/menu/". trim($this_item->Image). "\" class=\"img-fluid\" alt=\"images/".$this_item->Image."\"> 
 								<div class=\"media-body\"> 
 									<h5 class=\"mt-0\">" . $this_item->Name  . "</h5>
 									<p class=\"mb-0\" id=\"".$this_description_short_id ."\" style =\"display:none !important;\">".$this_description_short_text. "</p>
@@ -100,10 +100,10 @@ foreach($xml->children() as $main_category) { // Lunch, Dinner, Drink
 							$this_description_short_id = "short_description_".$menu_item_identifier_suffix;
 							$this_description_display_fun_name = "display_description_".$menu_item_identifier_suffix;
 
-							//	<img class=\"mr-3\" src=\"images/menu/" . trim($this_item->Image). "\" class=\"img-fluid\" alt=\"images/".trim($this_item->Image)."\">
-
+							
 							$menu_html_contnet .=   
 							"<div class=\"media menu-item\">
+								<img class=\"mr-3\" src=\"images/menu/" . trim($this_item->Image). "\" class=\"img-fluid\" alt=\"images/".trim($this_item->Image)."\">
 								<div class=\"media-body\">
 									<h5 class=\"mt-0\">" . $this_item->Name  . "</h5>
 

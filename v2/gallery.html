@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Photo gallery of our Ethiopian restaurant and dishes">
+    <title>Gallery - Ethiopian Restaurant</title>
+    
+    <!-- Bootstrap CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    
+    <!-- Lightbox CSS -->
+    <link href="assets/css/lightbox.css" rel="stylesheet">
+    
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body class="gallery-page">
+    <!-- Header will be inserted here by JavaScript -->
+    <div id="header-placeholder"></div>
+    
+    <!-- Gallery Hero Section -->
+    <section class="hero hero-sm hero-fixed-background hero-fixed-background-narrow mb-5" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('assets/img/background/hero-bg.jpg');">
+        <div class="container">
+            <div class="hero-content text-center text-white">
+                <h1 class="text-white fw-bold fs-2 mb-3" data-translate="galleryTitle">Restaurant Gallery</h1>
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb justify-content-center">
+                        <li class="breadcrumb-item"><a href="index.html" data-translate="navHome">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page" data-translate="navGallery">Gallery</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Gallery Section -->
+    <section class="section">
+        <div class="container">
+            <div class="text-center mb-5">
+                <div class="btn-group" role="group">
+                    <button type="button" class="btn btn-outline-primary active filter-btn" data-filter="all" data-translate="allPhotos">All Photos</button>
+                    <button type="button" class="btn btn-outline-primary filter-btn" data-filter="food" data-translate="food">Food</button>
+                    <button type="button" class="btn btn-outline-primary filter-btn" data-filter="restaurant" data-translate="restaurant">Restaurant</button>
+                    <button type="button" class="btn btn-outline-primary filter-btn" data-filter="events" data-translate="events">Events</button>
+                </div>
+            </div>
+            
+            <div class="row gallery-container">
+                <!-- Food Images -->
+                <div class="col-md-4 col-6 mb-4 gallery-item food">
+                    <a href="assets/img/gallery/food1.jpg" data-lightbox="gallery" data-title="Doro Wot - Ethiopian National Dish">
+                        <img src="assets/img/gallery/food1-thumb.jpg" alt="Doro Wot" class="img-fluid rounded">
+                    </a>
+                </div>
+                
+                <div class="col-md-4 col-6 mb-4 gallery-item food">
+                    <a href="assets/img/gallery/food2.jpg" data-lightbox="gallery" data-title="Vegetarian Platter with Injera">
+                        <img src="assets/img/gallery/food2-thumb.jpg" alt="Vegetarian Platter" class="img-fluid rounded">
+                    </a>
+                </div>
+                
+                <div class="col-md-4 col-6 mb-4 gallery-item food">
+                    <a href="assets/img/gallery/food3.jpg" data-lightbox="gallery" data-title="Kitfo - Traditional Ethiopian Dish">
+                        <img src="assets/img/gallery/food3-thumb.jpg" alt="Kitfo" class="img-fluid rounded">
+                    </a>
+                </div>
+                
+                <!-- Restaurant Images -->
+                <div class="col-md-4 col-6 mb-4 gallery-item restaurant">
+                    <a href="assets/img/gallery/restaurant1.jpg" data-lightbox="gallery" data-title="Our Cozy Dining Area">
+                        <img src="assets/img/gallery/restaurant1-thumb.jpg" alt="Dining Area" class="img-fluid rounded">
+                    </a>
+                </div>
+                
+                <div class="col-md-4 col-6 mb-4 gallery-item restaurant">
+                    <a href="assets/img/gallery/restaurant2.jpg" data-lightbox="gallery" data-title="Traditional Ethiopian Decor">
+                        <img src="assets/img/gallery/restaurant2-thumb.jpg" alt="Restaurant Decor" class="img-fluid rounded">
+                    </a>
+                </div>
+                
+                <div class="col-md-4 col-6 mb-4 gallery-item restaurant">
+                    <a href="assets/img/gallery/restaurant3.jpg" data-lightbox="gallery" data-title="Our Bar Area">
+                        <img src="assets/img/gallery/restaurant3-thumb.jpg" alt="Bar Area" class="img-fluid rounded">
+                    </a>
+                </div>
+                
+                <!-- Event Images -->
+                <div class="col-md-4 col-6 mb-4 gallery-item events">
+                    <a href="assets/img/gallery/event1.jpg" data-lightbox="gallery" data-title="Traditional Coffee Ceremony">
+                        <img src="assets/img/gallery/event1-thumb.jpg" alt="Coffee Ceremony" class="img-fluid rounded">
+                    </a>
+                </div>
+                
+                <div class="col-md-4 col-6 mb-4 gallery-item events">
+                    <a href="assets/img/gallery/event2.jpg" data-lightbox="gallery" data-title="Live Music Nights">
+                        <img src="assets/img/gallery/event2-thumb.jpg" alt="Live Music" class="img-fluid rounded">
+                    </a>
+                </div>
+                
+                <div class="col-md-4 col-6 mb-4 gallery-item events">
+                    <a href="assets/img/gallery/event3.jpg" data-lightbox="gallery" data-title="Cultural Performances">
+                        <img src="assets/img/gallery/event3-thumb.jpg" alt="Cultural Performance" class="img-fluid rounded">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Footer will be inserted here by JavaScript -->
+    <div id="footer-placeholder"></div>
+    
+    <!-- Bootstrap JS Bundle with Popper -->
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Lightbox JS -->
+    <script src="assets/js/lightbox.js"></script>
+    
+    <!-- Shared JS -->
+    <script src="assets/js/shared.js"></script>
+    
+    <!-- Main JS -->
+    <script src="assets/js/main.js"></script>
+    
+    <script>
+        // Insert header and footer
+        document.getElementById('header-placeholder').innerHTML = generateHeader();
+        document.getElementById('footer-placeholder').innerHTML = generateFooter();
+        
+        // Initialize gallery filter
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                // Update active button
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                
+                // Filter items
+                const filter = this.getAttribute('data-filter');
+                document.querySelectorAll('.gallery-item').forEach(item => {
+                    if (filter === 'all' || item.classList.contains(filter)) {
+                        item.style.display = 'block';
+                    } else {
+                        item.style.display = 'none';
+                    }
+                });
+            });
+        });
+        
+        // Initialize lightbox
+        lightbox.option({
+            'resizeDuration': 200,
+            'wrapAround': true,
+            'positionFromTop': 100
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <category id="non-veg">
+        <name lang="en">Non-Vegetarian Food</name>
+        <name lang="de">Getränke</name>
+        <name lang="am">መጠጥ</name>
+        <dish>
+            <id>1</id>
+            <name lang="en">Doro Wot</name>
+            <name lang="de">Doro Wot</name>
+            <name lang="am">ዶሮ ወጥ</name>
+            <shortDescription lang="en">Ethiopian National Dish - spicy chicken stew</shortDescription>
+            <shortDescription lang="de">Äthiopisches Nationalgericht - scharfes Hühnchen-Eintopf</shortDescription>
+            <shortDescription lang="am">የኢትዮጵያ ብሔራዊ ምግብ - ሚጥሚጣ የዶሮ ምግብ</shortDescription>
+            <longDescription lang="en">Traditional Ethiopian chicken stew made with berbere spice, onions, garlic, ginger, and boiled eggs. Served with injera.</longDescription>
+            <longDescription lang="de">Traditionelles äthiopisches Hühnchen-Eintopf mit Berbere-Gewürz, Zwiebeln, Knoblauch, Ingwer und gekochten Eiern. Serviert mit Injera.</longDescription>
+            <longDescription lang="am">ባህላዊ የዶሮ ወጥ ከበርበሬ ቅጠል፣ ሽንኩርት፣ ነጭ ሽንኩርት፣ እንጉዳይ እና የተቀቀሉ እንቁላሎች የተሰራ። ከእንጀራ ጋር ይቀርባል።</longDescription>
+            <price>8.50</price>
+            <image>doro-wot.jpg</image>
+            <allergens>
+                <allergen lang="en">Egg</allergen>
+                <allergen lang="de">Ei</allergen>
+                <allergen lang="am">እንቁላል</allergen>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>true</selected>
+        </dish>
+        <dish>
+            <id>2</id>
+            <name lang="en">Kitfo</name>
+            <name lang="de">Kitfo</name>
+            <name lang="am">ክትፎ</name>
+            <shortDescription lang="en">Minced raw beef with spices</shortDescription>
+            <shortDescription lang="de">Gewürztes rohes Rinderhack</shortDescription>
+            <shortDescription lang="am">በቅመስ የተሰራ አልበሰለ የበሬ ስጋ</shortDescription>
+            <longDescription lang="en">Finely minced raw beef marinated in mitmita (chili powder) and niter kibbeh (spiced clarified butter). Served with ayib (Ethiopian cottage cheese) and gomen (collard greens).</longDescription>
+            <longDescription lang="de">Fein gehacktes rohes Rindfleisch mariniert in Mitmita (Chilipulver) und Niter Kibbeh (gewürzte Butterschmalz). Serviert mit Ayib (äthiopischer Hüttenkäse) und Gomen (Grünkohl).</longDescription>
+            <longDescription lang="am">የተፈጨ አልበሰለ  ች ስጋ በሚትሚታ (ቺሊ ዱቄት) እና ንትር ክብሔ (በቅመስ የተሰራ ጥሩ ቅቤ) የተጠበሰ። ከአይብ (የኢትዮጵያ ገበሬ አስጣይ ፎርማጆ) እና ጎመን (ኮላርድ አትክልት) ጋር ይቀርባል።</longDescription>
+            <price>9.50</price>
+            <image>kitfo.jpg</image>
+            <allergens>
+                <allergen lang="en">Dairy</allergen>
+                <allergen lang="de">Milchprodukte</allergen>
+                <allergen lang="am">የወተት ምርቶች</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>true</selected>
+        </dish>
+    </category>
+    
+    <category id="veg">
+        <name lang="en">Vegetarian Food</name>
+        <name lang="de">Getränke</name>
+        <name lang="am">መጠጥ</name>
+        <dish>
+            <id>3</id>
+            <name lang="en">Shiro Wot</name>
+            <name lang="de">Shiro Wot</name>
+            <name lang="am">ሽሮ ወጥ</name>
+            <shortDescription lang="en">Spiced chickpea stew</shortDescription>
+            <shortDescription lang="de">Gewürzte Kichererbsen-Eintopf</shortDescription>
+            <shortDescription lang="am">በቅመስ የተሰራ የሽሮ ምግብ</shortDescription>
+            <longDescription lang="en">A thick stew made from ground chickpeas, onions, garlic, and berbere spice. Vegan option available.</longDescription>
+            <longDescription lang="de">Ein dicker Eintopf aus gemahlenen Kichererbsen, Zwiebeln, Knoblauch und Berbere-Gewürz. Vegane Option verfügbar.</longDescription>
+            <longDescription lang="am">ከፈጨ ሽሮ፣ ሽንኩርት፣ ነጭ ሽንኩርት እና በርበሬ ቅጠል የተሰራ ወፍራም ምግብ። ቢጋን አማራጭ  ግኝቷል።</longDescription>
+            <price>6.50</price>
+            <image>shiro.jpg</image>
+            <allergens>
+                <allergen lang="en">None</allergen>
+                <allergen lang="de">Keine</allergen>
+                <allergen lang="am">የለም</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>4</id>
+            <name lang="en">Misir Wot</name>
+            <name lang="de">Misir Wot</name>
+            <name lang="am">ምስር ወጥ</name>
+            <shortDescription lang="en">Spicy red lentil stew</shortDescription>
+            <shortDescription lang="de">Scharfe rote Linsen-Eintopf</shortDescription>
+            <shortDescription lang="am">ሚጥሚጣ የቀይ ምስር ምግብ</shortDescription>
+            <longDescription lang="en">A flavorful stew made from red lentils, onions, garlic, and berbere spice. Vegan and gluten-free.</longDescription>
+            <longDescription lang="de">Ein schmackhafter Eintopf aus roten Linsen, Zwiebeln, Knoblauch und Berbere-Gewürz. Vegan und glutenfrei.</longDescription>
+            <longDescription lang="am">ከቀይ ምስር፣ ሽንኩርት፣ ነጭ ሽንኩርት እና በርበሬ ቅጠል የተሰራ ጣዕሙ የተሻለ ምግብ። ቢጋን እና ግሉተን-ነፃ።</longDescription>
+            <price>6.00</price>
+            <image>misir-wot.jpg</image>
+            <allergens>
+                <allergen lang="en">None</allergen>
+                <allergen lang="de">Keine</allergen>
+                <allergen lang="am">የለም</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+    </category>
+
+    <category id="combos">
+        <name lang="en">Combos</name>
+        <name lang="de">Getränke</name>
+        <name lang="am">መጠጥ</name>
+        <dish>
+            <id>5</id>
+            <name lang="en">Shiro Wot</name>
+            <name lang="de">Shiro Wot</name>
+            <name lang="am">ሽሮ ወጥ</name>
+            <shortDescription lang="en">Spiced chickpea stew</shortDescription>
+            <shortDescription lang="de">Gewürzte Kichererbsen-Eintopf</shortDescription>
+            <shortDescription lang="am">በቅመስ የተሰራ የሽሮ ምግብ</shortDescription>
+            <longDescription lang="en">A thick stew made from ground chickpeas, onions, garlic, and berbere spice. Vegan option available.</longDescription>
+            <longDescription lang="de">Ein dicker Eintopf aus gemahlenen Kichererbsen, Zwiebeln, Knoblauch und Berbere-Gewürz. Vegane Option verfügbar.</longDescription>
+            <longDescription lang="am">ከፈጨ ሽሮ፣ ሽንኩርት፣ ነጭ ሽንኩርት እና በርበሬ ቅጠል የተሰራ ወፍራም ምግብ። ቢጋን አማራጭ  ግኝቷል።</longDescription>
+            <price>6.50</price>
+            <image>shiro.jpg</image>
+            <allergens>
+                <allergen lang="en">None</allergen>
+                <allergen lang="de">Keine</allergen>
+                <allergen lang="am">የለም</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>true</selected>
+        </dish>
+    </category>
+
+        <category id="desserts">
+        <name lang="en">Desserts</name>
+        <name lang="de">Desserts</name>
+        <name lang="am">መጠጥ አልኮል</name>        
+        <dish>
+            <id>6</id>
+            <name lang="en">Shiro Wot</name>
+            <name lang="de">Shiro Wot</name>
+            <name lang="am">ሽሮ ወጥ</name>
+            <shortDescription lang="en">Spiced chickpea stew</shortDescription>
+            <shortDescription lang="de">Gewürzte Kichererbsen-Eintopf</shortDescription>
+            <shortDescription lang="am">በቅመስ የተሰራ የሽሮ ምግብ</shortDescription>
+            <longDescription lang="en">A thick stew made from ground chickpeas, onions, garlic, and berbere spice. Vegan option available.</longDescription>
+            <longDescription lang="de">Ein dicker Eintopf aus gemahlenen Kichererbsen, Zwiebeln, Knoblauch und Berbere-Gewürz. Vegane Option verfügbar.</longDescription>
+            <longDescription lang="am">ከፈጨ ሽሮ፣ ሽንኩርት፣ ነጭ ሽንኩርት እና በርበሬ ቅጠል የተሰራ ወፍራም ምግብ። ቢጋን አማራጭ  ግኝቷል።</longDescription>
+            <price>6.50</price>
+            <image>shiro.jpg</image>
+            <allergens>
+                <allergen lang="en">None</allergen>
+                <allergen lang="de">Keine</allergen>
+                <allergen lang="am">የለም</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+    </category>
+
+        <category id="drinks">
+        <name lang="en">Drinks</name>
+        <name lang="de">Getränke</name>
+        <name lang="am">መጠጥ</name>
+        <dish>
+            <id>7</id>
+            <name lang="en">Shiro Wot</name>
+            <name lang="de">Shiro Wot</name>
+            <name lang="am">ሽሮ ወጥ</name>
+            <shortDescription lang="en">Spiced chickpea stew</shortDescription>
+            <shortDescription lang="de">Gewürzte Kichererbsen-Eintopf</shortDescription>
+            <shortDescription lang="am">በቅመስ የተሰራ የሽሮ ምግብ</shortDescription>
+            <longDescription lang="en">A thick stew made from ground chickpeas, onions, garlic, and berbere spice. Vegan option available.</longDescription>
+            <longDescription lang="de">Ein dicker Eintopf aus gemahlenen Kichererbsen, Zwiebeln, Knoblauch und Berbere-Gewürz. Vegane Option verfügbar.</longDescription>
+            <longDescription lang="am">ከፈጨ ሽሮ፣ ሽንኩርት፣ ነጭ ሽንኩርት እና በርበሬ ቅጠል የተሰራ ወፍራም ምግብ። ቢጋን አማራጭ  ግኝቷል።</longDescription>
+            <price>6.50</price>
+            <image>shiro.jpg</image>
+            <allergens>
+                <allergen lang="en">None</allergen>
+                <allergen lang="de">Keine</allergen>
+                <allergen lang="am">የለም</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+    </category>
+
+    <category id="alcoholicdrinks">
+        <name lang="en">Alcoholic Drinks</name>
+        <name lang="de">Alkoholische Getränke</name>
+        <name lang="am">መጠጥ አልኮል</name>
+        <dish>
+            <id>7</id>
+            <name lang="en">Shiro Wot</name>
+            <name lang="de">Shiro Wot</name>
+            <name lang="am">ሽሮ ወጥ</name>
+            <shortDescription lang="en">Spiced chickpea stew</shortDescription>
+            <shortDescription lang="de">Gewürzte Kichererbsen-Eintopf</shortDescription>
+            <shortDescription lang="am">በቅመስ የተሰራ የሽሮ ምግብ</shortDescription>
+            <longDescription lang="en">A thick stew made from ground chickpeas, onions, garlic, and berbere spice. Vegan option available.</longDescription>
+            <longDescription lang="de">Ein dicker Eintopf aus gemahlenen Kichererbsen, Zwiebeln, Knoblauch und Berbere-Gewürz. Vegane Option verfügbar.</longDescription>
+            <longDescription lang="am">ከፈጨ ሽሮ፣ ሽንኩርት፣ ነጭ ሽንኩርት እና በርበሬ ቅጠል የተሰራ ወፍራም ምግብ። ቢጋን አማራጭ  ግኝቷል።</longDescription>
+            <price>6.50</price>
+            <image>shiro.jpg</image>
+            <allergens>
+                <allergen lang="en">None</allergen>
+                <allergen lang="de">Keine</allergen>
+                <allergen lang="am">የለም</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+    </category>
+
+    <category id="hotdrinks">
+        <name lang="en">Hot Drinks</name>
+        <name lang="de">Alkoholische Getränke</name>
+        <name lang="am">መጠጥ አልኮል</name>
+        <dish>
+            <id>7</id>
+            <name lang="en">Shiro Wot</name>
+            <name lang="de">Shiro Wot</name>
+            <name lang="am">ሽሮ ወጥ</name>
+            <shortDescription lang="en">Spiced chickpea stew</shortDescription>
+            <shortDescription lang="de">Gewürzte Kichererbsen-Eintopf</shortDescription>
+            <shortDescription lang="am">በቅመስ የተሰራ የሽሮ ምግብ</shortDescription>
+            <longDescription lang="en">A thick stew made from ground chickpeas, onions, garlic, and berbere spice. Vegan option available.</longDescription>
+            <longDescription lang="de">Ein dicker Eintopf aus gemahlenen Kichererbsen, Zwiebeln, Knoblauch und Berbere-Gewürz. Vegane Option verfügbar.</longDescription>
+            <longDescription lang="am">ከፈጨ ሽሮ፣ ሽንኩርት፣ ነጭ ሽንኩርት እና በርበሬ ቅጠል የተሰራ ወፍራም ምግብ። ቢጋን አማራጭ  ግኝቷል።</longDescription>
+            <price>6.50</price>
+            <image>shiro.jpg</image>
+            <allergens>
+                <allergen lang="en">None</allergen>
+                <allergen lang="de">Keine</allergen>
+                <allergen lang="am">የለም</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+    </category>
+    <!-- Additional categories would continue here -->
+</menu>

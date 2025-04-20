@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <category id="non-veg">
+        <name lang="en">Non-Vegetarian Dishes</name>
+        <name lang="de">Gerichte mit Fleisch</name>
+        <name lang="am">ስጋ ያለው ምግብ</name>
+
+        <dish>
+            <id>1</id>
+            <name lang="en">Doro Wot</name>
+            <name lang="de">Doro Wot</name>
+            <name lang="am">ዶሮ ወጥ</name>
+            <shortDescription lang="en">Ethiopian national dish</shortDescription>
+            <shortDescription lang="de">Äthiopisches Nationalgericht</shortDescription>
+            <shortDescription lang="am">የኢትዮጵያ ብሔራዊ ምግብ</shortDescription>
+            <longDescription lang="en">Chicken in spicy sauce with Ethiopian spices, boiled egg and optional fresh cheese</longDescription>
+            <longDescription lang="de">Hähnchen in scharfer Soße mit äthiopischen Gewürzen, gekochtem Ei und bei Wunsch mit Frischkäse</longDescription>
+            <longDescription lang="am">ዶሮ በሚጥሚጣ ስስ ከኢትዮጵያዊ ቅመሞች፣ የተቀቀለ እንቁላል እና ከሚፈለገ አዲስ ፎርማጆ ጋር</longDescription>
+            <price>8.50</price>
+            <image>shiro.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+                <allergen lang="en">Dairy</allergen>
+                <allergen lang="de">Milchprodukte</allergen>
+                <allergen lang="am">የወተት ምርቶች</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>true</selected>
+        </dish>
+
+        <dish>
+            <id>2</id>
+            <name lang="en">Kay Wot</name>
+            <name lang="de">Kay Wot</name>
+            <name lang="am">ካይ ወጥ</name>
+            <shortDescription lang="en">Spicy beef stew</shortDescription>
+            <shortDescription lang="de">Scharfes Rindfleisch-Eintopf</shortDescription>
+            <shortDescription lang="am">ሚጥሚጣ የበሬ ስጋ ምግብ</shortDescription>
+            <longDescription lang="en">Diced beef in spicy sauce with Ethiopian chili</longDescription>
+            <longDescription lang="de">Zu Würfeln geschnittenes Rindfleisch in scharfer Soße mit äthiopischem Chilli</longDescription>
+            <longDescription lang="am">የተከተፈ በሬ ስጋ በሚጥሚጣ ስስ ከኢትዮጵያዊ ቺሊ</longDescription>
+            <price>8.50</price>
+            <image>shiro.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>true</selected>
+        </dish>
+
+        <dish>
+            <id>3</id>
+            <name lang="en">Ye Beg Wot</name>
+            <name lang="de">Ye Beg Wot</name>
+            <name lang="am">የበግ ወጥ</name>
+            <shortDescription lang="en">Spicy lamb stew</shortDescription>
+            <shortDescription lang="de">Scharfes Lammfleisch-Eintopf</shortDescription>
+            <shortDescription lang="am">ሚጥሚጣ የበግ ስጋ ምግብ</shortDescription>
+            <longDescription lang="en">Diced lamb in spicy sauce with Ethiopian chili</longDescription>
+            <longDescription lang="de">Zu Würfeln geschnittenes Schaffleisch in scharfer Soße mit äthiopischem Chilli</longDescription>
+            <longDescription lang="am">የተከተፈ በግ ስጋ በሚጥሚጣ ስስ ከኢትዮጵያዊ ቺሊ</longDescription>
+            <price>8.50</price>
+            <image>shiro.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>true</selected>
+        </dish>
+
+        <dish>
+            <id>4</id>
+            <name lang="en">Bozena Shiro</name>
+            <name lang="de">Bozena Shiro</name>
+            <name lang="am">ቦዘና ሽሮ</name>
+            <shortDescription lang="en">Mild chickpea stew with beef</shortDescription>
+            <shortDescription lang="de">Milde Kichererbsensoße mit Rindfleisch</shortDescription>
+            <shortDescription lang="am">ለስላሳ የሽሮ ምግብ ከበሬ ስጋ ጋር</shortDescription>
+            <longDescription lang="en">Mild sauce made from chickpea flour with beef pieces and onions</longDescription>
+            <longDescription lang="de">Milde Soße aus Kichererbsenmehl mit Rindfleischstückchen und Zwiebeln</longDescription>
+            <longDescription lang="am">ለስላሳ ስስ ከሽሮ ዱቄት፣ ከበሬ ስጋ ቁርጥራጮች እና ከሽንኩርት ጋር</longDescription>
+            <price>9.50</price>
+            <image>menu_bozena_shiro.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+
+        <dish>
+            <id>5</id>
+            <name lang="en">Yebere Tibs</name>
+            <name lang="de">Yebere Tibs</name>
+            <name lang="am">የበሬ ጥብስ</name>
+            <shortDescription lang="en">Sauteed beef with spices</shortDescription>
+            <shortDescription lang="de">Gebratenes Rindfleisch mit Gewürzen</shortDescription>
+            <shortDescription lang="am">የተጠበሰ በሬ ስጋ ከቅመሞች ጋር</shortDescription>
+            <longDescription lang="en">Sauteed beef pieces with Ethiopian spices, tomatoes, onions, green chili and rosemary</longDescription>
+            <longDescription lang="de">Gebratene Rindfleischstückchen mit äthiopischen Gewürzen, Tomaten, Zwiebeln, grüner Chilli und Rosmarin</longDescription>
+            <longDescription lang="am">የተጠበሰ በሬ ስጋ ቁርጥራጮች ከኢትዮጵያዊ ቅመሞች፣ ከቲማቲም፣ ከሽንኩርት፣ ከአረንጓዴ ቺሊ እና ከሮዝማሪን ጋር</longDescription>
+            <price>9.50</price>
+            <image>menu_yebere_tibs.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+
+        <dish>
+            <id>6</id>
+            <name lang="en">Yebeg Tibs</name>
+            <name lang="de">Yebeg Tibs</name>
+            <name lang="am">የበግ ጥብስ</name>
+            <shortDescription lang="en">Sauteed lamb with spices</shortDescription>
+            <shortDescription lang="de">Gebratenes Lammfleisch mit Gewürzen</shortDescription>
+            <shortDescription lang="am">የተጠበሰ በግ ስጋ ከቅመሞች ጋር</shortDescription>
+            <longDescription lang="en">Sauteed lamb pieces in butter with Ethiopian spices, tomatoes, onions, green chili and rosemary</longDescription>
+            <longDescription lang="de">Gebratene Schaffleischstückchen in Butter mit äthiopischen Gewürzen, Tomaten, Zwiebeln, grüner Chilli und Rosmarin</longDescription>
+            <longDescription lang="am">የተጠበሰ በግ ስጋ ቁርጥራጮች በቅቤ ከኢትዮጵያዊ ቅመሞች፣ ከቲማቲም፣ ከሽንኩርት፣ ከአረንጓዴ ቺሊ እና ከሮዝማሪን ጋር</longDescription>
+            <price>9.00</price>
+            <image>menu_yebeg_tibs.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+
+        <dish>
+            <id>7</id>
+            <name lang="en">Ruz Be Siga</name>
+            <name lang="de">Ruz Be Siga</name>
+            <name lang="am">ሩዝ በስጋ</name>
+            <shortDescription lang="en">Rice with beef</shortDescription>
+            <shortDescription lang="de">Reis mit Rindfleisch</shortDescription>
+            <shortDescription lang="am">ሩዝ ከበሬ ስጋ ጋር</shortDescription>
+            <longDescription lang="en">Rice or couscous with sliced beef pieces and mild sauce</longDescription>
+            <longDescription lang="de">Reis oder Couscous mit geschnittenen Rindfleischstückchen und milder Soße</longDescription>
+            <longDescription lang="am">ሩዝ ወይም ኩስኩስ ከተከተፉ በሬ ስጋ ቁርጥራጮች እና ከለስላሳ ስስ ጋር</longDescription>
+            <price>8.50</price>
+            <image>menu_ruz_besiga.jpg</image>
+            <allergens>
+                <allergen lang="en">None</allergen>
+                <allergen lang="de">Keine</allergen>
+                <allergen lang="am">የለም</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>11</id>
+            <name lang="en">Beyeaynet</name>
+            <name lang="de">Beyeaynet</name>
+            <name lang="am">በየእንት</name>
+            <shortDescription lang="en">Mixed meat platter</shortDescription>
+            <shortDescription lang="de">Gemischter Fleischteller</shortDescription>
+            <shortDescription lang="am">የተቀላቀለ የስጋ ሳህን</shortDescription>
+            <longDescription lang="en">Sampler plate with various meat sauces</longDescription>
+            <longDescription lang="de">Probierteller mit verschiedenen Fleischsoßen</longDescription>
+            <longDescription lang="am">የሙከራ ሳህን ከተለያዩ የስጋ ስስዎች ጋር</longDescription>
+            <price>20.00</price>
+            <image>yeatekilt_beyanetu.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <!-- Additional non-veg dishes would follow same pattern -->
+    </category>
+
+    <category id="veg">
+        <name lang="en">Vegetarian Dishes</name>
+        <name lang="de">Vegetarische Gerichte</name>
+        <name lang="am">አታክልት ምግብ</name>
+
+        <dish>
+            <id>1</id>
+            <name lang="en">Alicha</name>
+            <name lang="de">Alicha</name>
+            <name lang="am">አሊቻ</name>
+            <shortDescription lang="en">Vegetable dish</shortDescription>
+            <shortDescription lang="de">Gemüsegericht</shortDescription>
+            <shortDescription lang="am">አታክልት ምግብ</shortDescription>
+            <longDescription lang="en">Dish made with cabbage, eggplant, carrots and onions</longDescription>
+            <longDescription lang="de">Gericht aus Weißkohl, Aubergine, Möhren und Zwiebeln</longDescription>
+            <longDescription lang="am">ከጎመን፣ ባሮንጌ፣ ካሮት እና ሽንኩርት የተሰራ ምግብ</longDescription>
+            <price>8.50</price>
+            <image>menu_alicha.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+
+        <dish>
+            <id>2</id>
+            <name lang="en">Shiro</name>
+            <name lang="de">Shiro</name>
+            <name lang="am">ሽሮ</name>
+            <shortDescription lang="en">Chickpea stew</shortDescription>
+            <shortDescription lang="de">Kichererbsen-Eintopf</shortDescription>
+            <shortDescription lang="am">የሽሮ ምግብ</shortDescription>
+            <longDescription lang="en">Mild sauce made from chickpea flour with onions, tomatoes and salad</longDescription>
+            <longDescription lang="de">Milde Soße aus Kichererbsenmehl, Zwiebeln, Tomaten und Salat</longDescription>
+            <longDescription lang="am">ለስላሳ ስስ ከሽሮ ዱቄት፣ ከሽንኩርት፣ ከቲማቲም እና ከሰላጣ ጋር</longDescription>
+            <price>8.00</price>
+            <image>menu_shiro.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+
+        <dish>
+            <id>3</id>
+            <name lang="en">Messir Wot</name>
+            <name lang="de">Messir Wot</name>
+            <name lang="am">ምስር ወጥ</name>
+            <shortDescription lang="en">Lentil stew (mildly spicy)</shortDescription>
+            <shortDescription lang="de">Linseneintopf (leicht scharf)</shortDescription>
+            <shortDescription lang="am">የምስር ምግብ (ትንሽ ሚጥሚጣ)</shortDescription>
+            <longDescription lang="en">Ethiopian lentil dish with mild spices</longDescription>
+            <longDescription lang="de">Äthiopisches Linsengericht mit milden Gewürzen</longDescription>
+            <longDescription lang="am">የኢትዮጵያ የምስር ምግብ ከለስላሳ ቅመሞች ጋር</longDescription>
+            <price>8.00</price>
+            <image>menu_yemisir_wot.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+
+        <dish>
+            <id>4</id>
+            <name lang="en">Ruz Beatekilt</name>
+            <name lang="de">Ruz Beatekilt</name>
+            <name lang="am">ሩዝ በአታክልት</name>
+            <shortDescription lang="en">Rice with vegetables</shortDescription>
+            <shortDescription lang="de">Reis mit Gemüse</shortDescription>
+            <shortDescription lang="am">ሩዝ ከአታክልት ጋር</shortDescription>
+            <longDescription lang="en">Rice or couscous with various vegetables and salad</longDescription>
+            <longDescription lang="de">Reis oder Couscous mit verschiedenen Gemüse und Salat</longDescription>
+            <longDescription lang="am">ሩዝ ወይም ኩስኩስ ከተለያዩ አታክልቶች እና ከሰላጣ ጋር</longDescription>
+            <price>8.00</price>
+            <image>menu_ruz_beatekilt.jpg</image>
+            <allergens>
+                <allergen lang="en">None</allergen>
+                <allergen lang="de">Keine</allergen>
+                <allergen lang="am">የለም</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>25</id>
+            <name lang="en">Yeatekilt Beyeaynet</name>
+            <name lang="de">Yeatekilt Beyeaynet</name>
+            <name lang="am">የአታክልት በየእንት</name>
+            <shortDescription lang="en">Vegetarian sampler (for 1 person)</shortDescription>
+            <shortDescription lang="de">Vegetarischer Probiereller (für 1 Person)</shortDescription>
+            <shortDescription lang="am">የአታክልት ሙከራ ሳህን (ለ1 ሰው)</shortDescription>
+            <longDescription lang="en">Sampler plate with various vegetarian sauces</longDescription>
+            <longDescription lang="de">Probierteller mit verschiedenen vegetarischen Soßen</longDescription>
+            <longDescription lang="am">የሙከራ ሳህን ከተለያዩ የአታክልት ስስዎች ጋር</longDescription>
+            <price>17.00</price>
+            <image>menu_yetsom_beyeaynet.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+
+        <!-- Additional veg dishes would follow same pattern -->
+    </category>
+
+    <category id="tasting-plates">
+        <name lang="en">Tasting Plates</name>
+        <name lang="de">Probierplatten</name>
+        <name lang="am">የሙከራ ሳህኖች</name>
+
+        <!-- Mahiberawi for 2 Persons -->
+        <dish>
+            <id>41</id>
+            <name lang="en">Mahiberawi for 2 Persons</name>
+            <name lang="de">Mahiberawi für 2 Personen</name>
+            <name lang="am">ማህበራዊ ለ2 ሰዎች</name>
+            <shortDescription lang="en">Mixed meat and veg platter (2 persons)</shortDescription>
+            <shortDescription lang="de">Gemischte Fleisch- und Gemüseplatte (2 Personen)</shortDescription>
+            <shortDescription lang="am">የተቀላቀለ ስጋ እና አታክልት ሳህን (2 ሰዎች)</shortDescription>
+            <longDescription lang="en">Sampler plate with various meat and vegetarian sauces</longDescription>
+            <longDescription lang="de">Probierteller mit verschiedenen Fleisch- und vegetarischen Soßen</longDescription>
+            <longDescription lang="am">የሙከራ ሳህን ከተለያዩ የስጋ እና የአታክልት ስስዎች ጋር</longDescription>
+            <price>39.00</price>
+            <image>menu_mahiberawi.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+                <allergen lang="en">Dairy</allergen>
+                <allergen lang="de">Milchprodukte</allergen>
+                <allergen lang="am">የወተት ምርቶች</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+
+        <!-- Mahiberawi for 4 Persons -->
+        <dish>
+            <id>42</id>
+            <name lang="en">Mahiberawi for 4 Persons</name>
+            <name lang="de">Mahiberawi für 4 Personen</name>
+            <name lang="am">ማህበራዊ ለ4 ሰዎች</name>
+            <shortDescription lang="en">Mixed meat and veg platter (4 persons)</shortDescription>
+            <shortDescription lang="de">Gemischte Fleisch- und Gemüseplatte (4 Personen)</shortDescription>
+            <shortDescription lang="am">የተቀላቀለ ስጋ እና አታክልት ሳህን (4 ሰዎች)</shortDescription>
+            <longDescription lang="en">Sampler plate with various meat and vegetarian sauces</longDescription>
+            <longDescription lang="de">Probierteller mit verschiedenen Fleisch- und vegetarischen Soßen</longDescription>
+            <longDescription lang="am">የሙከራ ሳህን ከተለያዩ የስጋ እና የአታክልት ስስዎች ጋር</longDescription>
+            <price>74.00</price>
+            <image>menu_mahiberawi.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+                <allergen lang="en">Dairy</allergen>
+                <allergen lang="de">Milchprodukte</allergen>
+                <allergen lang="am">የወተት ምርቶች</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+
+        <!-- Yeatekilt Beyeaynet for 2 Persons -->
+        <dish>
+            <id>43</id>
+            <name lang="en">Vegetarian Sampler for 2</name>
+            <name lang="de">Vegetarischer Probiereller für 2</name>
+            <name lang="am">የአታክልት ሙከራ ለ2</name>
+            <shortDescription lang="en">Vegetarian platter (2 persons)</shortDescription>
+            <shortDescription lang="de">Vegetarische Platte (2 Personen)</shortDescription>
+            <shortDescription lang="am">የአታክልት ሳህን (2 ሰዎች)</shortDescription>
+            <longDescription lang="en">Sampler plate with various vegetarian sauces</longDescription>
+            <longDescription lang="de">Probierteller mit verschiedenen vegetarischen Soßen</longDescription>
+            <longDescription lang="am">የሙከራ ሳህን ከተለያዩ የአታክልት ስስዎች ጋር</longDescription>
+            <price>33.00</price>
+            <image>menu_yetsom_beyeaynet.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+
+        <!-- Yeatekilt Beyeaynet for 4 Persons -->
+        <dish>
+            <id>44</id>
+            <name lang="en">Vegetarian Sampler for 4</name>
+            <name lang="de">Vegetarischer Probiereller für 4</name>
+            <name lang="am">የአታክልት ሙከራ ለ4</name>
+            <shortDescription lang="en">Vegetarian platter (4 persons)</shortDescription>
+            <shortDescription lang="de">Vegetarische Platte (4 Personen)</shortDescription>
+            <shortDescription lang="am">የአታክልት ሳህን (4 ሰዎች)</shortDescription>
+            <longDescription lang="en">Sampler plate with various vegetarian sauces</longDescription>
+            <longDescription lang="de">Probierteller mit verschiedenen vegetarischen Soßen</longDescription>
+            <longDescription lang="am">የሙከራ ሳህን ከተለያዩ የአታክልት ስስዎች ጋር</longDescription>
+            <price>63.00</price>
+            <image>menu_yetsom_beyeaynet.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+
+        <!-- Additional tasting plates would follow same pattern -->
+    </category>
+
+    <category id="desserts">
+        <name lang="en">Desserts</name>
+        <name lang="de">Dessert</name>
+        <name lang="am">የምከራ</name>
+        <dish>
+            <id>81</id>
+            <name lang="en">Yogurt with Honey</name>
+            <name lang="de">Joghurt mit Honig</name>
+            <name lang="am">የጥምር ከማር ጋር</name>
+            <shortDescription lang="en">Yogurt dessert</shortDescription>
+            <shortDescription lang="de">Joghurt Dessert</shortDescription>
+            <shortDescription lang="am">የጥምር ምከራ</shortDescription>
+            <longDescription lang="en">Natural yogurt with honey, walnuts and hazelnut brittle</longDescription>
+            <longDescription lang="de">Naturjoghurt mit Honig, Walnüssen und Haselnusskrokant</longDescription>
+            <longDescription lang="am">ተፈጥሯዊ የጥምር ከማር፣ ከወይራ ፍሬ እና ከሄዝልናት ብራክሌት ጋር</longDescription>
+            <price>6.50</price>
+            <image>menu_joghort_honig.jpg</image>
+            <allergens>
+                <allergen lang="en">Nuts</allergen>
+                <allergen lang="de">Nüsse</allergen>
+                <allergen lang="am">የፍሬ እሾህ</allergen>
+                <allergen lang="en">Dairy</allergen>
+                <allergen lang="de">Milchprodukte</allergen>
+                <allergen lang="am">የወተት ምርቶች</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+
+        <dish>
+            <id>82</id>
+            <name lang="en">Yogurt with Cherries</name>
+            <name lang="de">Joghurt mit Kirschen</name>
+            <name lang="am">የጥምር ከቼሪ ጋር</name>
+            <shortDescription lang="en">Yogurt dessert</shortDescription>
+            <shortDescription lang="de">Joghurt Dessert</shortDescription>
+            <shortDescription lang="am">የጥምር ምከራ</shortDescription>
+            <longDescription lang="en">Natural yogurt with cherries, walnuts and hazelnut brittle</longDescription>
+            <longDescription lang="de">Naturjoghurt mit Kirschen, Walnüssen und Haselnusskrokant</longDescription>
+            <longDescription lang="am">ተፈጥሯዊ የጥምር ከቼሪ፣ ከወይራ ፍሬ እና ከሄዝልናት ብራክሌት ጋር</longDescription>
+            <price>6.50</price>
+            <image>menu_joghort_kirche.jpg</image>
+            <allergens>
+                <allergen lang="en">Gluten</allergen>
+                <allergen lang="de">Gluten</allergen>
+                <allergen lang="am">ግሉተን</allergen>
+                <allergen lang="en">Nuts</allergen>
+                <allergen lang="de">Nüsse</allergen>
+                <allergen lang="am">የፍሬ እሾህ</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <!-- Additional desserts would follow same pattern -->
+    </category>
+
+    <category id="hot-drinks">
+        <name lang="en">Hot Drinks</name>
+        <name lang="de">Warme Getränke</name>
+        <name lang="am">ሙቅ መጠጦች</name>
+        <dish>
+            <id>101</id>
+            <name lang="en">Ethiopian Coffee for 1/2 Person</name>
+            <name lang="de">Buna für 1/2 Person</name>
+            <name lang="am">ቡና ለ1/2 �ሰው</name>
+            <shortDescription lang="en">Traditional coffee</shortDescription>
+            <shortDescription lang="de">Traditioneller Kaffee</shortDescription>
+            <shortDescription lang="am">ባህላዊ ቡና</shortDescription>
+            <longDescription lang="en">Traditional Ethiopian coffee served in an Ethiopian coffee pot</longDescription>
+            <longDescription lang="de">Traditioneller äthiopischer Kaffee serviert in einer äthiopischen Kaffekanne</longDescription>
+            <longDescription lang="am">ባህላዊ ኢትዮጵያዊ ቡና በኢትዮጵያዊ ቡና አቀባይ የተሰራ</longDescription>
+            <price>4.60</price>
+            <price2>7.80</price2>
+            <image>menu_buna_for_1_person.jpg</image>
+            <allergens>
+                <!-- No allergens marked -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>102</id>
+            <name lang="en">Ethiopian Macchiato (Single/Double)</name>
+            <name lang="de">Äthiopischer Machiato Einfach/Doppelt</name>
+            <name lang="am">ኢትዮጵያዊ ማኪያቶ (ነጠላ/ድርብ)</name>
+            <shortDescription lang="en">Coffee with milk</shortDescription>
+            <shortDescription lang="de">Kaffee mit Milch</shortDescription>
+            <shortDescription lang="am">ቡና ከወተት ጋር</shortDescription>
+            <longDescription lang="en">Ethiopian coffee with milk</longDescription>
+            <longDescription lang="de">Äthiopischer Kaffee mit Milch</longDescription>
+            <longDescription lang="am">ኢትዮጵያዊ ቡና ከወተት ጋር</longDescription>
+            <price>3.20</price>
+            <price2>4.30</price2>
+            <image>menu_machiato.jpg</image>
+            <allergens>
+                <allergen lang="en">Dairy</allergen>
+                <allergen lang="de">Milchprodukte</allergen>
+                <allergen lang="am">የወተት ምርቶች</allergen>
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>103</id>
+            <name lang="en">Espresso (Single/Double)</name>
+            <name lang="de">Espresso Einfach/Doppelt</name>
+            <name lang="am">ኢስፕሬሶ (ነጠላ/ድርብ)</name>
+            <shortDescription lang="en">Strong coffee</shortDescription>
+            <shortDescription lang="de">Starker Kaffee</shortDescription>
+            <shortDescription lang="am">ጠንካራ ቡና</shortDescription>
+            <longDescription lang="en">Single espresso</longDescription>
+            <longDescription lang="de">Espresso Einfach</longDescription>
+            <longDescription lang="am">ነጠላ ኢስፕሬሶ</longDescription>
+            <price>2.90</price>
+            <price2>3.90</price2>
+            <image>menu_espresso.jpg</image>
+            <allergens>
+                <!-- No allergens marked -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>104</id>
+            <name lang="en">Chai Tea</name>
+            <name lang="de">Chai</name>
+            <name lang="am">ጫይ ሻይ</name>
+            <shortDescription lang="en">Spiced tea</shortDescription>
+            <shortDescription lang="de">Gewürztee</shortDescription>
+            <shortDescription lang="am">በቅመም የተደረቀ ሻይ</shortDescription>
+            <longDescription lang="en">Black tea with spices</longDescription>
+            <longDescription lang="de">Schwarztee mit Gewürzen</longDescription>
+            <longDescription lang="am">ጥቁር ሻይ ከቅመሞች ጋር</longDescription>
+            <price>3.20</price>
+            <image>menu_tea.jpg</image>
+            <allergens>
+                <!-- No allergens marked -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>105</id>
+            <name lang="en">Ginger Chai</name>
+            <name lang="de">Ingwer Chai</name>
+            <name lang="am">አጅንግ ጫይ</name>
+            <shortDescription lang="en">Ginger tea</shortDescription>
+            <shortDescription lang="de">Ingwertee</shortDescription>
+            <shortDescription lang="am">አጅንግ ሻይ</shortDescription>
+            <longDescription lang="en">With fresh ginger</longDescription>
+            <longDescription lang="de">Mit frischem Ingwer</longDescription>
+            <longDescription lang="am">ከቅርፅት አጅንግ ጋር</longDescription>
+            <price>3.50</price>
+            <image>menu_gingar_tea.jpg</image>
+            <allergens>
+                <!-- No allergens marked -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>106</id>
+            <name lang="en">Chai Espresso</name>
+            <name lang="de">Chai Espries</name>
+            <name lang="am">ጫይ ኢስፕሬሶ</name>
+            <shortDescription lang="en">Tea with coffee</shortDescription>
+            <shortDescription lang="de">Tee mit Kaffee</shortDescription>
+            <shortDescription lang="am">ሻይ ከቡና ጋር</shortDescription>
+            <longDescription lang="en">Black tea with coffee</longDescription>
+            <longDescription lang="de">Schwarztee mit Kaffee</longDescription>
+            <longDescription lang="am">ጥቁር ሻይ ከቡና ጋር</longDescription>
+            <price>3.50</price>
+            <image>menu_tea_coffee_esprise.jpg</image>
+            <allergens>
+                <!-- No allergens marked -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>107</id>
+            <name lang="en">House Tea</name>
+            <name lang="de">Haustee</name>
+            <name lang="am">የቤት ሻይ</name>
+            <shortDescription lang="en">Special spiced tea</shortDescription>
+            <shortDescription lang="de">Spezieller Gewürztee</shortDescription>
+            <shortDescription lang="am">ልዩ ቅመም ሻይ</shortDescription>
+            <longDescription lang="en">Ginger, oranges, black tea, honey, 4cl rum</longDescription>
+            <longDescription lang="de">Ingwer, Orangen, Schwarztee, Honig, 4cl Rum</longDescription>
+            <longDescription lang="am">አጅንግ፣ አረንጓዴ፣ ጥቁር ሻይ፣ ማር፣ 4cl ሩም</longDescription>
+            <price>7.80</price>
+            <image>menu_house_tea.jpg</image>
+            <allergens>
+                <!-- No allergens marked -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <!-- Additional hot drinks would follow same pattern -->
+    </category>
+
+    <category id="soft-drinks">
+        <name lang="en">Soft Drinks</name>
+        <name lang="de">Alkoholfreie Getränke</name>
+        <name lang="am">አልኮል የሌለው መጠጦች</name>
+        <dish>
+            <id>108</id>
+            <name lang="en">Mineral Water (Still/Classic)</name>
+            <name lang="de">Mineral Wasser (Still/Classic)</name>
+            <name lang="am">ማይነራል ውሃ (እርጥበት የሌለው/ክላሲክ)</name>
+            <shortDescription lang="en">Mineral water</shortDescription>
+            <shortDescription lang="de">Mineralwasser</shortDescription>
+            <shortDescription lang="am">ማይነራል ውሃ</shortDescription>
+            <longDescription lang="en">Mineral water (Still/Classic) (0.2l/0.4l/Bottle)</longDescription>
+            <longDescription lang="de">Mineral Wasser (Still/Classic) (0.2l/0,4l/Flasche)</longDescription>
+            <longDescription lang="am">ማይነራል ውሃ (እርጥበት የሌለው/ክላሲክ) (0.2ሊ/0.4ሊ/ባልዲን)</longDescription>
+            <price>2.70</price>
+            <price2>4.30</price2>
+            <price3>7.60</price3>
+            <image>menu_miniral_water.jpg</image>
+            <allergens>
+                <!-- No allergens marked -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>109</id>
+            <name lang="en">Coca Cola/Sprite/Fanta</name>
+            <name lang="de">Coca Cola/Sprite/Fanta</name>
+            <name lang="am">ኮካ ኮላ/ስፕራይት/ፋንታ</name>
+            <shortDescription lang="en">Soft drinks</shortDescription>
+            <shortDescription lang="de">Erfrischungsgetränke</shortDescription>
+            <shortDescription lang="am">ሶፍት ድሪንክስ</shortDescription>
+            <longDescription lang="en">Coca Cola (0.2l)</longDescription>
+            <longDescription lang="de">Coca Cola (0,2l)</longDescription>
+            <longDescription lang="am">ኮካ ኮላ (0.2ሊ)</longDescription>
+            <price>3.00</price>
+            <price2>4.90</price2>
+            <image>menu_coca.jpg</image>
+            <allergens>
+                <!-- No allergens marked but additives present -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>110</id>
+            <name lang="en">Juice (Apple/Orange/Cherry/Multivitamin)</name>
+            <name lang="de">Saft (Apfel/Orangen/Kirsch/Multivitamin)</name>
+            <name lang="am">ጭማቂ (አፕል/ኦሬንጅ/ቸሪ/ማሊቲቪታሚን)</name>
+            <shortDescription lang="en">Fresh juices</shortDescription>
+            <shortDescription lang="de">Frische Säfte</shortDescription>
+            <shortDescription lang="am">ትኩስ ጭማቂዎች</shortDescription>
+            <longDescription lang="en">Juice (Apple/Orange/Cherry/Multivitamin) (0.2l/0.4l)</longDescription>
+            <longDescription lang="de">Saft (Apfel/Orangen/Kirsch/Multivitamin) (0,2l/0.4l)</longDescription>
+            <longDescription lang="am">ጭማቂ (አፕል/ኦሬንጅ/ቸሪ/ማሊቲቪታሚን) (0.2ሊ/0.4ሊ)</longDescription>
+            <price>3.00</price>
+            <price2>4.90</price2>
+            <image>menu_saft.jpg</image>
+            <allergens>
+                <!-- No allergens marked -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>111</id>
+            <name lang="en">Juice Spritzers</name>
+            <name lang="de">Saftschorlen</name>
+            <name lang="am">ጭማቂ ስፕሪተር</name>
+            <shortDescription lang="en">Juice with sparkling water</shortDescription>
+            <shortDescription lang="de">Saft mit Sprudelwasser</shortDescription>
+            <shortDescription lang="am">ጭማቂ ከካርቦናዊ ውሃ ጋር</shortDescription>
+            <longDescription lang="en">Juice spritzers (Apple/Orange/Cherry/Multivitamin) (0.2l/0.4l)</longDescription>
+            <longDescription lang="de">Saftschorlen (Apfel/Orangen/Kirsch/Multivitamin) (0,2l/0.4l)</longDescription>
+            <longDescription lang="am">ጭማቂ ስፕሪተር (አፕል/ኦሬንጅ/ቸሪ/ማሊቲቪታሚን) (0.2ሊ/0.4ሊ)</longDescription>
+            <price>3.00</price>
+            <price2>4.90</price2>
+            <image>menu_saft.jpg</image>
+            <allergens>
+                <!-- No allergens marked -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <!-- Additional soft drinks would follow same pattern -->
+    </category>
+
+    <category id="alcoholic-drinks">
+        <name lang="en">Alcoholic Drinks</name>
+        <name lang="de">Bier, Wein and Spirituosen</name>
+        <name lang="am">ቢራ፣ ወይን እና መጠጥ</name>
+        <dish>
+            <id>112</id>
+            <name lang="en">Ethiopian Beer</name>
+            <name lang="de">Äthiopisches Bier</name>
+            <name lang="am">ኢትዮጵያዊት ቢራ</name>
+            <shortDescription lang="en">Ethiopian beer</shortDescription>
+            <shortDescription lang="de">Äthiopisches Bier</shortDescription>
+            <shortDescription lang="am">ኢትዮጵያዊት ቢራ</shortDescription>
+            <longDescription lang="en">Glass 0.3l</longDescription>
+            <longDescription lang="de">Glas 0,3l</longDescription>
+            <longDescription lang="am">ግልጽ 0.3ሊ</longDescription>
+            <price>5.90</price>
+            <image>menu_beer_glass.jpg</image>
+            <allergens>
+                <!-- No allergens marked -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>113</id>
+            <name lang="en">German Beers</name>
+            <name lang="de">Bier (Augustiner Helles/Lammsbräu/Hefeweizen/Hefeweizen Dunkel/Radler)</name>
+            <name lang="am">ጀርመናዊ ቢራዎች</name>
+            <shortDescription lang="en">German beer selection</shortDescription>
+            <shortDescription lang="de">Deutsche Biersorten</shortDescription>
+            <shortDescription lang="am">ጀርመናዊ ቢራ ምርጫ</shortDescription>
+            <longDescription lang="en">Beer (Augustiner Helles/Lammsbräu/Hefeweizen/Dark Hefeweizen/Radler)</longDescription>
+            <longDescription lang="de">Bier (Augustiner Helles/Lammsbräu/Hefeweizen/Hefeweizen Dunkel/Radler)</longDescription>
+            <longDescription lang="am">ቢራ (ኦገስቲነር ሄለስ/ላምስብሮይ/ሄፈቫይዜን/ጨለማ ሄፈቫይዜን/ራድለር)</longDescription>
+            <price>5.20</price>
+            <image>menu_beer_glass.jpg</image>
+            <allergens>
+                <!-- No allergens marked -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>114</id>
+            <name lang="en">Non-Alcoholic Beer</name>
+            <name lang="de">Bier Alkoholfrei (Becks Alkoholfrei/Hefeweizen Alkoholfrei)</name>
+            <name lang="am">አልኮል የሌለው ቢራ</name>
+            <shortDescription lang="en">Alcohol-free beer</shortDescription>
+            <shortDescription lang="de">Alkoholfreies Bier</shortDescription>
+            <shortDescription lang="am">አልኮል የሌለው ቢራ</shortDescription>
+            <longDescription lang="en">Becks Non-Alcoholic</longDescription>
+            <longDescription lang="de">Becks Alkoholfrei</longDescription>
+            <longDescription lang="am">ቤክስ አልኮል የሌለው</longDescription>
+            <price>5.20</price>
+            <image>menu_beer_glass.jpg</image>
+            <allergens>
+                <!-- No allergens marked -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>115</id>
+            <name lang="en">Ethiopian Wine (Dry)</name>
+            <name lang="de">Äthiopischer Wein (trocken)</name>
+            <name lang="am">ኢትዮጵያዊ ወይን (ደረቅ)</name>
+            <shortDescription lang="en">Ethiopian dry wine</shortDescription>
+            <shortDescription lang="de">Äthiopischer trockener Wein</shortDescription>
+            <shortDescription lang="am">ኢትዮጵያዊ ደረቅ ወይን</shortDescription>
+            <longDescription lang="en">Ethiopian wine (dry) (0.25l/Bottle)</longDescription>
+            <longDescription lang="de">Äthiopischer Wein (trocken) (0,25l/Flasche)</longDescription>
+            <longDescription lang="am">ኢትዮጵያዊ ወይን (ደረቅ) (0.25ሊ/ባልዲን)</longDescription>
+            <price>7.50</price>
+            <price2>21.50</price2>
+            <image>menu_red_wein.jpg</image>
+            <allergens>
+                <!-- No allergens marked -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>116</id>
+            <name lang="en">House Wine (Red/White)</name>
+            <name lang="de">Wein (Hauswein Rot/Weiß)</name>
+            <name lang="am">የቤት ወይን (ቀይ/ነጭ)</name>
+            <shortDescription lang="en">House wine selection</shortDescription>
+            <shortDescription lang="de">Hauswein Auswahl</shortDescription>
+            <shortDescription lang="am">የቤት ወይን ምርጫ</shortDescription>
+            <longDescription lang="en">Wine (House wine Red/White dry) (0.25l/Bottle)</longDescription>
+            <longDescription lang="de">Wein (Hauswein Rot/Weiß trocken) (0,25l/Flasche)</longDescription>
+            <longDescription lang="am">ወይን (የቤት ቀይ/ነጭ ደረቅ) (0.25ሊ/ባልዲን)</longDescription>
+            <price>6.50</price>
+            <price2>16.90</price2>
+            <image>menu_red_wein.jpg</image>
+            <allergens>
+                <!-- No allergens marked -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+        <dish>
+            <id>117</id>
+            <name lang="en">Spirits Selection</name>
+            <name lang="de">Amarula/Williams Christ Birne/Havana Club Rum/Grappa</name>
+            <name lang="am">ስፒሪትስ ምርጫ</name>
+            <shortDescription lang="en">Premium spirits</shortDescription>
+            <shortDescription lang="de">Hochwertige Spirituosen</shortDescription>
+            <shortDescription lang="am">ፕሬሚየም ስፒሪትስ</shortDescription>
+            <longDescription lang="en">Amarula/Williams Pear/Havana Club Rum/Grappa (2cl/4cl glass)</longDescription>
+            <longDescription lang="de">Amarula/Williams Christ Birne/Havana Club Rum/Grappa (2cl/4cl Glas)</longDescription>
+            <longDescription lang="am">አማሩላ/ዊልያምስ ክርስት ፒር/ሃቫና ክላብ ረም/ግራፓ (2ሴሊ/4ሴሊ ግልጽ)</longDescription>
+            <price>3.90</price>
+            <price2>5.50</price2>
+            <image>menu_alchol_glass.jpg</image>
+            <allergens>
+                <!-- No allergens marked -->
+            </allergens>
+            <hidden>false</hidden>
+            <selected>false</selected>
+        </dish>
+
+        <!-- Additional alcoholic drinks would follow same pattern -->
+    </category>
+</menu>
